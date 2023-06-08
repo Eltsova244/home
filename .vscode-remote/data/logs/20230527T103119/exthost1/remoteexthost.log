@@ -1,0 +1,5 @@
+2023-05-27 10:32:24.214 [info] Extension host with pid 510 started
+2023-05-27 10:32:24.289 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/2c67615d/vscode.lock': Lock acquired.
+2023-05-27 11:24:53.583 [info] Extension host terminating: received terminate message from renderer
+2023-05-27 11:24:53.584 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/2c67615d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-05-27 11:24:53.586 [info] Extension host with pid 510 exiting with code 0

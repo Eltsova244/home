@@ -1,0 +1,38 @@
+2023-06-08 10:27:19.485 [info] Уровень ведения журнала: Info
+2023-06-08 10:27:19.485 [info] Проверка найденного Git в: "git"
+2023-06-08 10:27:19.485 [info] Используется Git "2.34.1" из "git"
+2023-06-08 10:27:19.485 [info] > git rev-parse --show-toplevel [8ms]
+2023-06-08 10:27:19.485 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-08 10:27:19.485 [info] > git rev-parse --show-toplevel [24ms]
+2023-06-08 10:27:19.485 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-08 10:27:19.485 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-08 10:27:19.485 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-08 10:27:19.485 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-08 10:27:19.485 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-08 10:27:19.485 [info] > git rev-parse --show-toplevel [4ms]
+2023-06-08 10:27:19.485 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-08 10:27:19.485 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-08 10:27:19.485 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-08 10:27:19.485 [info] > git rev-parse --show-toplevel [4ms]
+2023-06-08 10:27:19.485 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-08 10:27:19.485 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-08 10:27:19.485 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-08 10:27:19.485 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-08 10:27:19.485 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-08 10:27:20.864 [info] > git rev-parse --show-toplevel [56ms]
+2023-06-08 10:27:20.864 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-08 10:27:33.396 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-08 10:27:33.413 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-06-08 10:27:33.443 [info] Open repository: /home/ubuntu
+2023-06-08 10:27:33.467 [info] > git fetch [25ms]
+2023-06-08 10:27:33.483 [info] > git config --get commit.template [17ms]
+2023-06-08 10:27:33.484 [info] > git config --get commit.template [2ms]
+2023-06-08 10:27:33.500 [info] No remotes found in the git config file.
+2023-06-08 10:27:33.513 [info] No remotes found in the git config file.
+2023-06-08 10:27:33.514 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2023-06-08 10:27:33.530 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2023-06-08 10:27:33.533 [info] > git config --get commit.template [2ms]
+2023-06-08 10:27:33.545 [info] No remotes found in the git config file.
+2023-06-08 10:27:33.545 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-06-08 10:27:34.179 [info] > git check-ignore -v -z --stdin [2ms]
+2023-06-08 10:27:34.389 [info] > git status -z -uall [832ms] (cancelled)

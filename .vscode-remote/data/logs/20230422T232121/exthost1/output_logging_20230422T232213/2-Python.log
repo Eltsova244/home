@@ -1,0 +1,7 @@
+Experiment 'pythonPromptNewFormatterExtcf' is active
+Experiment 'pythonPromptNewToolsExt' is active
+> conda info --json
+Python interpreter path: /usr/local/bin/python
+> /bin/python3 -I ~/.vscode-remote/extensions/ms-python.python-2023.6.1/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.6.1/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 -I ~/.vscode-remote/extensions/ms-python.python-2023.6.1/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.6.1/pythonFiles/interpreterInfo.py
+> /usr/local/bin/python -I ~/.vscode-remote/extensions/ms-python.python-2023.6.1/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.6.1/pythonFiles/interpreterInfo.py

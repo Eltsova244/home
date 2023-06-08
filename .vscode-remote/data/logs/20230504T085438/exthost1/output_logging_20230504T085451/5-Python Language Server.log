@@ -1,0 +1,32 @@
+[Info  - 8:55:25 AM] (1380) Pylance language server 2023.4.30 (pyright 50d44cf9) starting
+[Info  - 8:55:25 AM] (1380) Server root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.4.30/dist
+[Info  - 8:55:25 AM] (1380) Starting service instance "124855513"
+[Info  - 8:55:25 AM] (1380) Auto-indent enabled
+[Info  - 8:55:25 AM] (1380) Setting pythonPath for service "124855513": "/usr/local/bin/python"
+[Warn  - 8:55:25 AM] (1380) stubPath /workspaces/124855513/typings is not a valid directory.
+[Info  - 8:55:25 AM] (1380) Assuming Python version 3.11
+[Info  - 8:55:27 AM] (1380) No source files found.
+[Info  - 8:55:27 AM] (1380) Background analysis(1) root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.4.30/dist
+[Info  - 8:55:27 AM] (1380) Background analysis(1) started
+[Info  - 8:56:49 AM] (1380) Found 1 source file
+[Info  - 8:56:51 AM] (1380) Indexer background runner(2) root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.4.30/dist (index)
+[Info  - 8:56:51 AM] (1380) Indexing(2) started
+[Info  - 8:56:52 AM] (1380) scanned(2) 255 files over 1 exec env
+[Info  - 8:57:00 AM] (1380) [IDX(2)] Long operation: index execution environment /workspaces/124855513 (8351ms)
+[Info  - 8:57:00 AM] (1380) [IDX(2)] Long operation: index packages /workspaces/124855513 (8361ms)
+[Info  - 8:57:00 AM] (1380) indexed(2) 189 files over 1 exec env
+[Info  - 8:57:00 AM] (1380) Indexing finished(2).
+[Info  - 8:57:02 AM] (1380) Found 2 source files
+[Info  - 9:02:02 AM] (1380) Found 1 source file
+[Info  - 9:02:06 AM] (1380) No source files found.
+[Info  - 9:02:41 AM] (1380) Found 1 source file
+[Info  - 9:04:09 AM] (1380) Found 2 source files
+[Info  - 9:05:55 AM] (1380) Found 1 source file
+[Info  - 9:05:59 AM] (1380) No source files found.
+[Info  - 9:07:34 AM] (1380) Found 1 source file
+[Info  - 9:07:51 AM] (1380) Found 2 source files
+[Info  - 9:48:36 AM] (1380) Found 1 source file
+[Info  - 9:48:40 AM] (1380) No source files found.
+[Info  - 9:50:37 AM] (1380) Found 1 source file
+[Info  - 9:51:06 AM] (1380) Found 2 source files
+[Info  - 10:26:16 AM] (1380) Found 3 source files

@@ -1,0 +1,17 @@
+Visual Studio Code (1.78.0, codespaces, codespaces)
+Jupyter Extension Version: 2023.3.1201040234.
+Python Extension Version: 2023.6.1.
+Workspace folder /workspaces/124855513
+info 08:55:13.521: LSP Notebooks experiment is enabled
+info 08:55:13.846: Process Execution: > jupyter notebook --version
+> jupyter notebook --version
+info 08:55:13.862: Process Execution: > jupyter lab --version
+> jupyter lab --version
+warn 08:55:24.550: Failed to get activated env vars for /usr/local/bin/python in 6047ms
+info 08:55:24.573: Process Execution: > /usr/local/bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+> /usr/local/bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+info 08:55:24.625: Process Execution: > /usr/local/bin/python -m pip list
+> /usr/local/bin/python -m pip list
+info 11:49:10.660: Shutting down notebooks for ea245c8e-f040-4c6d-80f6-d22dd6772bd6
+info 11:49:10.660: Disposing HostJupyterExecution f5b7f8b9-ea08-4809-92c4-f4b0eb7e43ae
+info 11:49:10.661: Disposing HostJupyterExecution f5b7f8b9-ea08-4809-92c4-f4b0eb7e43ae

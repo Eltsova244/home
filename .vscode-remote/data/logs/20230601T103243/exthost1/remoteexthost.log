@@ -1,0 +1,55 @@
+2023-06-01 10:32:48.297 [info] Extension host with pid 309 started
+2023-06-01 10:32:48.305 [error] Error: EEXIST: file already exists, open '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/2c67615d/vscode.lock'
+2023-06-01 10:32:48.310 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/2c67615d/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-06-01 10:32:48.317 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/2c67615d/vscode.lock': The pid 385 appears to be gone.
+2023-06-01 10:32:48.317 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/2c67615d/vscode.lock': Deleting a stale lock.
+2023-06-01 10:32:48.337 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/2c67615d/vscode.lock': Lock acquired.
+2023-06-01 10:32:48.761 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onCommand:github.codespaces.activate'
+2023-06-01 10:32:48.763 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2023-06-01 10:32:48.763 [info] ExtensionService#_doActivateExtension vsls-contrib.gitdoc, startup: false, activationEvent: '*'
+2023-06-01 10:32:48.764 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-06-01 10:32:49.150 [warning] Using default string since no string found in i18n bundle that has the key: Keep Defaults
+2023-06-01 10:32:49.151 [warning] Using default string since no string found in i18n bundle that has the key: Configure Options
+2023-06-01 10:32:49.151 [warning] Using default string since no string found in i18n bundle that has the key: Finish
+2023-06-01 10:32:49.152 [warning] Using default string since no string found in i18n bundle that has the key: Learn More
+2023-06-01 10:32:49.152 [warning] Using default string since no string found in i18n bundle that has the key: Documentation on predefined container definitions
+2023-06-01 10:32:49.769 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-01 10:32:51.487 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2023-06-01 10:32:51.488 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2023-06-01 10:32:51.772 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-06-01 10:32:54.578 [info] Eager extensions activated
+2023-06-01 10:32:54.578 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-01 10:32:54.579 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-01 10:32:54.580 [info] ExtensionService#_doActivateExtension CS50.cs50, startup: false, activationEvent: 'onStartupFinished'
+2023-06-01 10:32:54.580 [info] ExtensionService#_doActivateExtension CS50.extension-uninstaller, startup: false, activationEvent: 'onStartupFinished'
+2023-06-01 10:32:54.581 [info] ExtensionService#_doActivateExtension CS50.lab50, startup: false, activationEvent: 'onStartupFinished'
+2023-06-01 10:32:54.581 [info] ExtensionService#_doActivateExtension CS50.markdown50, startup: false, activationEvent: 'onStartupFinished'
+2023-06-01 10:32:54.586 [info] ExtensionService#_doActivateExtension CS50.phpliteadmin, startup: false, activationEvent: 'onStartupFinished'
+2023-06-01 10:32:54.587 [info] ExtensionService#_doActivateExtension CS50.vscode-presentation-mode, startup: false, activationEvent: 'onStartupFinished'
+2023-06-01 10:32:54.587 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2023-06-01 10:32:58.382 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'api', root cause: GitHub.codespaces
+2023-06-01 10:32:59.385 [warning] Using default string since no string found in i18n bundle that has the key: Python is not installed. 
+Please download and install Python in order to execute cells in this notebook. 
+Once installed please reload VS Code.
+2023-06-01 10:32:59.385 [warning] Using default string since no string found in i18n bundle that has the key: Please check the 'Jupyter' [output](command:jupyter.viewOutput) panel for further details./Do not translate the text "command:jupyter.viewOutput", that is a command Id that will be used by VS Code to open the output panel
+2023-06-01 10:32:59.385 [warning] Using default string since no string found in i18n bundle that has the key: Jupyter Server Console
+2023-06-01 10:32:59.385 [warning] Using default string since no string found in i18n bundle that has the key: Operation not supported in web version of Jupyter Extension.
+2023-06-01 10:32:59.385 [warning] Using default string since no string found in i18n bundle that has the key: type to filter
+2023-06-01 10:32:59.385 [warning] Using default string since no string found in i18n bundle that has the key: Failed to install the Python Extension.
+2023-06-01 10:33:01.110 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2023-06-01 10:33:01.209 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2023-06-01 10:33:01.981 [warning] Using default string since no string found in i18n bundle that has the key: You need to select a Python interpreter before you start debugging.
+
+Tip: click on "Select Interpreter" in the status bar.
+2023-06-01 10:33:01.982 [warning] Using default string since no string found in i18n bundle that has the key: The Python extension now includes Pylance to improve completions, code navigation, overall performance and much more! You can learn more about the update and learn how to change your language server [here](https://aka.ms/new-python-bundle).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2023-06-01 10:33:01.983 [warning] Using default string since no string found in i18n bundle that has the key: The Microsoft Python Language Server has reached end of life. Your language server has been set to the default for Python in VS Code, Pylance.
+
+If you'd like to change your language server, you can learn about how to do so [here](https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2021-release/#configuring-your-language-server).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2023-06-01 10:33:02.835 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2023-06-01 10:34:59.792 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-06-01 10:34:59.792 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-06-01 10:38:06.867 [info] ExtensionService#_doActivateExtension ms-python.isort, startup: false, activationEvent: 'onLanguage:python'

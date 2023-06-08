@@ -1,0 +1,96 @@
+2023-05-28 00:07:21.275 [trace] Remote configuration data at /home/ubuntu/.vscode-remote
+2023-05-28 00:07:21.275 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/ubuntu/.vscode-remote/data/Machine/.connection-token-b3e4e68a0bc097f0ae7907b217c1119af9e03435","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/ubuntu/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"extensions-download-dir":"/home/ubuntu/.vscode-remote/extensionsCache","list-extensions":false,"show-versions":false,"force":false,"do-not-sync":false,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/ubuntu/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/extensions","extensions-dir":"/home/ubuntu/.vscode-remote/extensions","logsPath":"/home/ubuntu/.vscode-remote/data/logs/20230528T000721"}
+2023-05-28 00:07:21.275 [info] 
+
+
+
+
+2023-05-28 00:07:21.275 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/data/Machine (excludes: <none>, includes: <all>),/home/ubuntu/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>)
+2023-05-28 00:07:21.293 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/data/Machine'
+2023-05-28 00:07:21.296 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/data/Machine/settings.json'
+2023-05-28 00:07:21.311 [trace] resolveShellEnv(): running (macOS/Linux)
+2023-05-28 00:07:21.314 [trace] getUnixShellEnvironment#runAsNode undefined
+2023-05-28 00:07:21.314 [trace] getUnixShellEnvironment#noAttach undefined
+2023-05-28 00:07:21.316 [trace] getUnixShellEnvironment#env {"GITHUB_TOKEN":"ghu_TNUtYQ4wOkesPavxmTdLNX6zrOLczT3791eH","MANSECT":"3,2,1","GITHUB_CODESPACE_TOKEN":"A5YSJWMFWDS6MJICESWP2PTEOLQWXANCNFSM4AC23G3Q","JAVA_TOOL_OPTIONS":"-Dsun.java2d.opengl=true","HOSTNAME":"codespaces-4129e2","GH_TOKEN":"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","GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN":"preview.app.github.dev","SHLVL":"1","HOME":"/home/ubuntu","OLDPWD":"/home/ubuntu","CODESPACES":"true","CS50_TOKEN":"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","LC_CTYPE":"C.UTF-8","GITHUB_USER":"Eltsova244","GITHUB_GRAPHQL_URL":"https://api.github.com/graphql","ContainerVersion":"12","GITHUB_API_URL":"https://api.github.com","PYTHONDONTWRITEBYTECODE":"1","RepositoryName":"124855513","_":"/usr/bin/cat","CLOUDENV_ENVIRONMENT_ID":"7ce0bac2-17dc-4e40-93ed-b927e5281b5e","VALGRIND_OPTS":"--memcheck:leak-check=full --memcheck:show-leak-kinds=all --memcheck:track-origins=yes","HISTCONTROL":"ignoreboth","LDLIBS":"-lcrypt -lcs50 -lm","PATH":"/home/ubuntu/.gem/bin:/home/ubuntu/.local/bin:/opt/cs50/bin:/opt/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin","VSCODE_AGENT_FOLDER":"/home/ubuntu/.vscode-remote","SHELL_LOGGED_IN":"true","CFLAGS":"-ferror-limit=1 -gdwarf-4 -ggdb3 -O0 -std=c11 -Wall -Werror -Wextra -Wno-gnu-folding-constant -Wno-sign-compare -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wshadow","DISPLAY":":0","LANG":"C.UTF-8","GITHUB_REPOSITORY":"code50/124855513","CS50_GH_USER":"Eltsova244","WORKDIR":"/home/ubuntu","SHELL":"/bin/bash","PROMPT_COMMAND":"history -a","GEM_HOME":"/home/ubuntu/.gem","CS50_TZ":"Asia/Tomsk","JAVA_HOME":"/opt/jdk-18.0.2.1","INTERNAL_VSCS_TARGET_URL":"https://westeurope.online.visualstudio.com","LC_ALL":"C.UTF-8","PWD":"/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435","GITHUB_SERVER_URL":"https://github.com","CODESPACE_NAME":"eltsova244-humble-giggle-r9qgq47x5xq35v97","TZ":"Asia/Tomsk","CC":"clang","NODE_ENV":"dev","EDITOR":"nano","VSCODE_HANDLES_SIGPIPE":"true","ELECTRON_RUN_AS_NODE":"1","ELECTRON_NO_ATTACH_CONSOLE":"1","VSCODE_RESOLVING_ENVIRONMENT":"1"}
+2023-05-28 00:07:21.353 [trace] getUnixShellEnvironment#shell /bin/bash
+2023-05-28 00:07:21.354 [trace] getUnixShellEnvironment#spawn ["-i","-l","-c"] '/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/node'  -p '"9de90a710d3a" + JSON.stringify(process.env) + "9de90a710d3a"'
+2023-05-28 00:07:21.365 [trace] ExtensionManagementService#cleanUp
+2023-05-28 00:07:21.381 [info] Extension host agent started.
+2023-05-28 00:07:21.473 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/extensions (excludes: <none>, includes: <all>)
+2023-05-28 00:07:21.496 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/esbenp.prettier-vscode-9.13.0
+2023-05-28 00:07:21.497 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/ritwickdey.liveserver-5.7.9
+2023-05-28 00:07:21.498 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/ms-azuretools.vscode-docker-1.25.1
+2023-05-28 00:07:21.500 [debug] Removing uninstalled extensions: ["github.vscode-pull-request-github-0.62.0","ms-ceintl.vscode-language-pack-ru-1.78.2023050309","ms-python.vscode-pylance-2023.5.10"]
+2023-05-28 00:07:21.501 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions","external":"file:///home/ubuntu/.vscode-remote/extensions","path":"/home/ubuntu/.vscode-remote/extensions","scheme":"file"}
+2023-05-28 00:07:21.509 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/extensions'
+2023-05-28 00:07:21.514 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>)
+2023-05-28 00:07:21.627 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions","external":"file:///home/ubuntu/.vscode-remote/extensions","path":"/home/ubuntu/.vscode-remote/extensions","scheme":"file"}
+2023-05-28 00:07:21.802 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/extensions/extensions.json'
+2023-05-28 00:07:21.998 [trace] Scanned user extensions: 26
+2023-05-28 00:07:22.004 [trace] Deleting uninstalled extension from disk github.vscode-pull-request-github /home/ubuntu/.vscode-remote/extensions/github.vscode-pull-request-github-0.62.0
+2023-05-28 00:07:22.006 [trace] Deleting uninstalled extension from disk ms-ceintl.vscode-language-pack-ru /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.78.2023050309
+2023-05-28 00:07:22.008 [trace] Deleting uninstalled extension from disk ms-python.vscode-pylance /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.5.10
+2023-05-28 00:07:22.016 [trace] [File Watcher (node.js)] [raw] ["rename"] github.vscode-pull-request-github-0.62.0
+2023-05-28 00:07:22.017 [trace] [File Watcher (node.js)] [raw] ["rename"] ._1c4e38ff-69bd-48c5-acc9-bface322358d
+2023-05-28 00:07:22.018 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-ru-1.78.2023050309
+2023-05-28 00:07:22.019 [trace] [File Watcher (node.js)] [raw] ["rename"] ._8e1d26b7-ff15-42bc-9e64-b403e98e92d1
+2023-05-28 00:07:22.021 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-python.vscode-pylance-2023.5.10
+2023-05-28 00:07:22.023 [trace] [File Watcher (node.js)] [raw] ["rename"] ._01e03d15-aa7b-4c95-9da1-97c9c163569c
+2023-05-28 00:07:22.051 [trace] Scanned user extensions: 23
+2023-05-28 00:07:22.121 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/github.vscode-pull-request-github-0.62.0
+2023-05-28 00:07:22.151 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/._1c4e38ff-69bd-48c5-acc9-bface322358d
+2023-05-28 00:07:22.152 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.78.2023050309
+2023-05-28 00:07:22.152 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/._8e1d26b7-ff15-42bc-9e64-b403e98e92d1
+2023-05-28 00:07:22.152 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.5.10
+2023-05-28 00:07:22.169 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/._01e03d15-aa7b-4c95-9da1-97c9c163569c
+2023-05-28 00:07:22.179 [info] Deleted from disk ms-ceintl.vscode-language-pack-ru /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.78.2023050309
+2023-05-28 00:07:22.190 [trace] [File Watcher (node.js)] [raw] ["rename"] ._8e1d26b7-ff15-42bc-9e64-b403e98e92d1
+2023-05-28 00:07:22.216 [trace] [File Watcher (node.js)] >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.5.10
+2023-05-28 00:07:22.217 [trace] [File Watcher (node.js)] >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/github.vscode-pull-request-github-0.62.0
+2023-05-28 00:07:22.217 [trace] [File Watcher (node.js)] >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.78.2023050309
+2023-05-28 00:07:22.218 [trace] [File Watcher (node.js)] >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/._1c4e38ff-69bd-48c5-acc9-bface322358d
+2023-05-28 00:07:22.219 [trace] [File Watcher (node.js)] >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/._8e1d26b7-ff15-42bc-9e64-b403e98e92d1
+2023-05-28 00:07:22.219 [trace] [File Watcher (node.js)] >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/._01e03d15-aa7b-4c95-9da1-97c9c163569c
+2023-05-28 00:07:22.367 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/._8e1d26b7-ff15-42bc-9e64-b403e98e92d1
+2023-05-28 00:07:22.379 [info] Deleted from disk github.vscode-pull-request-github /home/ubuntu/.vscode-remote/extensions/github.vscode-pull-request-github-0.62.0
+2023-05-28 00:07:22.427 [trace] [File Watcher (node.js)] [raw] ["rename"] ._1c4e38ff-69bd-48c5-acc9-bface322358d
+2023-05-28 00:07:22.499 [trace] [File Watcher (node.js)] >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/._8e1d26b7-ff15-42bc-9e64-b403e98e92d1
+2023-05-28 00:07:22.617 [trace] [File Watcher (node.js)] [raw] ["change"] .obsolete
+2023-05-28 00:07:22.619 [trace] [File Watcher (node.js)] [CHANGED] /home/ubuntu/.vscode-remote/extensions/.obsolete
+2023-05-28 00:07:22.628 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/._1c4e38ff-69bd-48c5-acc9-bface322358d
+2023-05-28 00:07:22.745 [trace] [File Watcher (node.js)] >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/._1c4e38ff-69bd-48c5-acc9-bface322358d
+2023-05-28 00:07:22.745 [trace] [File Watcher (node.js)] >> normalized [CHANGED] /home/ubuntu/.vscode-remote/extensions/.obsolete
+2023-05-28 00:07:22.795 [trace] getUnixShellEnvironment#raw 9de90a710d3a{"SHELL":"/bin/bash","CLOUDENV_ENVIRONMENT_ID":"7ce0bac2-17dc-4e40-93ed-b927e5281b5e","HISTCONTROL":"ignoreboth","GITHUB_USER":"Eltsova244","CODESPACE_NAME":"eltsova244-humble-giggle-r9qgq47x5xq35v97","HOSTNAME":"codespaces-4129e2","RepositoryName":"124855513","JAVA_HOME":"/opt/jdk-18.0.2.1","CODESPACES":"true","CS50_TOKEN":"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","ELECTRON_RUN_AS_NODE":"1","GH_TOKEN":"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","EDITOR":"nano","PWD":"/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435","CS50_TZ":"Asia/Tomsk","NODE_ENV":"dev","ContainerVersion":"12","TZ":"Asia/Tomsk","GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN":"preview.app.github.dev","HOME":"/home/ubuntu","GITHUB_API_URL":"https://api.github.com","LANG":"C.UTF-8","GITHUB_TOKEN":"ghu_TNUtYQ4wOkesPavxmTdLNX6zrOLczT3791eH","WORKDIR":"/home/ubuntu","PROMPT_COMMAND":"history -a","VALGRIND_OPTS":"--memcheck:leak-check=full --memcheck:show-leak-kinds=all --memcheck:track-origins=yes","VSCODE_AGENT_FOLDER":"/home/ubuntu/.vscode-remote","INTERNAL_VSCS_TARGET_URL":"https://westeurope.online.visualstudio.com","SHELL_LOGGED_IN":"true","GEM_HOME":"/home/ubuntu/.gem","GITHUB_CODESPACE_TOKEN":"A5YSJWMFWDS6MJICESWP2PTEOLQWXANCNFSM4AC23G3Q","VSCODE_HANDLES_SIGPIPE":"true","GITHUB_GRAPHQL_URL":"https://api.github.com/graphql","LDLIBS":"-lcrypt -lcs50 -lm","JAVA_TOOL_OPTIONS":"-Dsun.java2d.opengl=true","GITHUB_SERVER_URL":"https://github.com","DISPLAY":":0","SHLVL":"1","PYTHONDONTWRITEBYTECODE":"1","LC_CTYPE":"C.UTF-8","GITHUB_REPOSITORY":"code50/124855513","LC_ALL":"C.UTF-8","ELECTRON_NO_ATTACH_CONSOLE":"1","PATH":"/home/ubuntu/.gem/bin:/home/ubuntu/.local/bin:/opt/cs50/bin:/opt/bin:/home/ubuntu/.gem/bin:/home/ubuntu/.local/bin:/opt/cs50/bin:/opt/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin","VSCODE_RESOLVING_ENVIRONMENT":"1","CC":"clang","CFLAGS":"-ferror-limit=1 -gdwarf-4 -ggdb3 -O0 -std=c11 -Wall -Werror -Wextra -Wno-gnu-folding-constant -Wno-sign-compare -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wshadow","MANSECT":"3,2,1","CS50_GH_USER":"Eltsova244","OLDPWD":"/home/ubuntu","_":"/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/node"}9de90a710d3a
+
+2023-05-28 00:07:22.797 [trace] getUnixShellEnvironment#stderr bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+
+2023-05-28 00:07:22.800 [trace] getUnixShellEnvironment#result {"SHELL":"/bin/bash","CLOUDENV_ENVIRONMENT_ID":"7ce0bac2-17dc-4e40-93ed-b927e5281b5e","HISTCONTROL":"ignoreboth","GITHUB_USER":"Eltsova244","CODESPACE_NAME":"eltsova244-humble-giggle-r9qgq47x5xq35v97","HOSTNAME":"codespaces-4129e2","RepositoryName":"124855513","JAVA_HOME":"/opt/jdk-18.0.2.1","CODESPACES":"true","CS50_TOKEN":"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","GH_TOKEN":"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","EDITOR":"nano","PWD":"/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435","CS50_TZ":"Asia/Tomsk","NODE_ENV":"dev","ContainerVersion":"12","TZ":"Asia/Tomsk","GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN":"preview.app.github.dev","HOME":"/home/ubuntu","GITHUB_API_URL":"https://api.github.com","LANG":"C.UTF-8","GITHUB_TOKEN":"ghu_TNUtYQ4wOkesPavxmTdLNX6zrOLczT3791eH","WORKDIR":"/home/ubuntu","PROMPT_COMMAND":"history -a","VALGRIND_OPTS":"--memcheck:leak-check=full --memcheck:show-leak-kinds=all --memcheck:track-origins=yes","VSCODE_AGENT_FOLDER":"/home/ubuntu/.vscode-remote","INTERNAL_VSCS_TARGET_URL":"https://westeurope.online.visualstudio.com","SHELL_LOGGED_IN":"true","GEM_HOME":"/home/ubuntu/.gem","GITHUB_CODESPACE_TOKEN":"A5YSJWMFWDS6MJICESWP2PTEOLQWXANCNFSM4AC23G3Q","VSCODE_HANDLES_SIGPIPE":"true","GITHUB_GRAPHQL_URL":"https://api.github.com/graphql","LDLIBS":"-lcrypt -lcs50 -lm","JAVA_TOOL_OPTIONS":"-Dsun.java2d.opengl=true","GITHUB_SERVER_URL":"https://github.com","DISPLAY":":0","SHLVL":"1","PYTHONDONTWRITEBYTECODE":"1","LC_CTYPE":"C.UTF-8","GITHUB_REPOSITORY":"code50/124855513","LC_ALL":"C.UTF-8","PATH":"/home/ubuntu/.gem/bin:/home/ubuntu/.local/bin:/opt/cs50/bin:/opt/bin:/home/ubuntu/.gem/bin:/home/ubuntu/.local/bin:/opt/cs50/bin:/opt/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin","CC":"clang","CFLAGS":"-ferror-limit=1 -gdwarf-4 -ggdb3 -O0 -std=c11 -Wall -Werror -Wextra -Wno-gnu-folding-constant -Wno-sign-compare -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wshadow","MANSECT":"3,2,1","CS50_GH_USER":"Eltsova244","OLDPWD":"/home/ubuntu","_":"/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/node"}
+2023-05-28 00:07:22.917 [trace] [File Watcher (node.js)] [raw] ["change"] .obsolete
+2023-05-28 00:07:22.917 [trace] [File Watcher (node.js)] [CHANGED] /home/ubuntu/.vscode-remote/extensions/.obsolete
+2023-05-28 00:07:22.918 [trace] [File Watcher (node.js)] [raw] ["change"] .obsolete
+2023-05-28 00:07:22.918 [trace] [File Watcher (node.js)] [CHANGED] /home/ubuntu/.vscode-remote/extensions/.obsolete
+2023-05-28 00:07:22.929 [trace] [File Watcher (node.js)] [raw] ["rename"] ._01e03d15-aa7b-4c95-9da1-97c9c163569c
+2023-05-28 00:07:22.929 [info] Deleted from disk ms-python.vscode-pylance /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.5.10
+2023-05-28 00:07:22.972 [trace] [File Watcher (node.js)] [raw] ["rename"] .obsolete
+2023-05-28 00:07:22.973 [trace] ExtensionManagementService#removeGeneratedFolders
+2023-05-28 00:07:22.994 [trace] [File Watcher (node.js)] >> normalized [CHANGED] /home/ubuntu/.vscode-remote/extensions/.obsolete
+2023-05-28 00:07:23.029 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/._01e03d15-aa7b-4c95-9da1-97c9c163569c
+2023-05-28 00:07:23.073 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/.obsolete
+2023-05-28 00:07:23.105 [trace] [File Watcher (node.js)] >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/.obsolete
+2023-05-28 00:07:23.105 [trace] [File Watcher (node.js)] >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/._01e03d15-aa7b-4c95-9da1-97c9c163569c
+2023-05-28 00:07:23.286 [info] [127.0.0.1][9122db98][ManagementConnection] New connection established.
+2023-05-28 00:07:23.287 [trace] [127.0.0.1][9e41fdb8][ExtensionHostConnection] - startParams language: ru
+2023-05-28 00:07:23.287 [trace] [127.0.0.1][9e41fdb8][ExtensionHostConnection] - startParams env: {}
+2023-05-28 00:07:23.288 [info] [127.0.0.1][9e41fdb8][ExtensionHostConnection] New connection established.
+2023-05-28 00:07:23.385 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-05-28 00:07:23.394 [info] [127.0.0.1][9e41fdb8][ExtensionHostConnection] <375> Launched Extension Host Process.
+2023-05-28 00:07:23.902 [trace] Started scanning system extensions
+2023-05-28 00:07:23.906 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-05-28 00:07:23.907 [trace] ExtensionManagementService.refreshReportedCache
+2023-05-28 00:07:23.907 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-05-28 00:07:23.908 [trace] Started scanning system extensions
+2023-05-28 00:07:23.915 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-05-28 00:07:23.922 [trace] Scanning extensions using UI language: ru
+2023-05-28 00:07:23.925 [info] Log level changed to info
+2023-05-28 00:12:21.381 [info] New EH opened, aborting shutdown

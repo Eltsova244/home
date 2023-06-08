@@ -1,0 +1,110 @@
+2023-05-04 08:54:38.963 [trace] Remote configuration data at /home/ubuntu/.vscode-remote
+2023-05-04 08:54:38.963 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/ubuntu/.vscode-remote/data/Machine/.connection-token-252e5463d60e63238250799aef7375787f68b4ee","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/ubuntu/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"extensions-download-dir":"/home/ubuntu/.vscode-remote/extensionsCache","list-extensions":false,"show-versions":false,"force":false,"do-not-sync":false,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/ubuntu/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/extensions","extensions-dir":"/home/ubuntu/.vscode-remote/extensions","logsPath":"/home/ubuntu/.vscode-remote/data/logs/20230504T085438"}
+2023-05-04 08:54:38.963 [info] 
+
+
+
+
+2023-05-04 08:54:38.963 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/data/Machine (excludes: <none>, includes: <all>),/home/ubuntu/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>)
+2023-05-04 08:54:38.970 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/data/Machine'
+2023-05-04 08:54:38.971 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/data/Machine/settings.json'
+2023-05-04 08:54:39.025 [trace] resolveShellEnv(): running (macOS/Linux)
+2023-05-04 08:54:39.028 [trace] getUnixShellEnvironment#runAsNode undefined
+2023-05-04 08:54:39.028 [trace] getUnixShellEnvironment#noAttach undefined
+2023-05-04 08:54:39.030 [trace] getUnixShellEnvironment#env {"GITHUB_TOKEN":"ghu_9E1r8K7OUU7mv0XBOa5YGahR8C3IdD41vAIu","MANSECT":"3,2,1","GITHUB_CODESPACE_TOKEN":"A5YSJWP4C57DMNFMNKNDQPDEKO4PRANCNFSM4AC23G3Q","JAVA_TOOL_OPTIONS":"-Dsun.java2d.opengl=true","HOSTNAME":"codespaces-4129e2","GH_TOKEN":"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","GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN":"preview.app.github.dev","SHLVL":"1","HOME":"/home/ubuntu","OLDPWD":"/home/ubuntu","CODESPACES":"true","CS50_TOKEN":"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","LC_CTYPE":"C.UTF-8","GITHUB_USER":"Eltsova244","GITHUB_GRAPHQL_URL":"https://api.github.com/graphql","ContainerVersion":"12","GITHUB_API_URL":"https://api.github.com","PYTHONDONTWRITEBYTECODE":"1","RepositoryName":"124855513","_":"/usr/bin/cat","CLOUDENV_ENVIRONMENT_ID":"7ce0bac2-17dc-4e40-93ed-b927e5281b5e","VALGRIND_OPTS":"--memcheck:leak-check=full --memcheck:show-leak-kinds=all --memcheck:track-origins=yes","HISTCONTROL":"ignoreboth","LDLIBS":"-lcrypt -lcs50 -lm","PATH":"/home/ubuntu/.gem/bin:/home/ubuntu/.local/bin:/opt/cs50/bin:/opt/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin","VSCODE_AGENT_FOLDER":"/home/ubuntu/.vscode-remote","SHELL_LOGGED_IN":"true","CFLAGS":"-ferror-limit=1 -gdwarf-4 -ggdb3 -O0 -std=c11 -Wall -Werror -Wextra -Wno-gnu-folding-constant -Wno-sign-compare -Wno-unused-parameter -Wno-unused-variable -Wno-unused-but-set-variable -Wshadow","DISPLAY":":0","LANG":"C.UTF-8","GITHUB_REPOSITORY":"code50/124855513","CS50_GH_USER":"Eltsova244","WORKDIR":"/home/ubuntu","SHELL":"/bin/bash","PROMPT_COMMAND":"history -a","GEM_HOME":"/home/ubuntu/.gem","CS50_TZ":"Asia/Tomsk","JAVA_HOME":"/opt/jdk-18.0.2.1","INTERNAL_VSCS_TARGET_URL":"https://westeurope.online.visualstudio.com","LC_ALL":"C.UTF-8","PWD":"/vscode/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee","GITHUB_SERVER_URL":"https://github.com","CODESPACE_NAME":"eltsova244-humble-giggle-r9qgq47x5xq35v97","TZ":"Asia/Tomsk","CC":"clang","NODE_ENV":"dev","EDITOR":"nano","VSCODE_HANDLES_SIGPIPE":"true","ELECTRON_RUN_AS_NODE":"1","ELECTRON_NO_ATTACH_CONSOLE":"1","VSCODE_RESOLVING_ENVIRONMENT":"1"}
+2023-05-04 08:54:39.057 [trace] getUnixShellEnvironment#shell /bin/bash
+2023-05-04 08:54:39.058 [trace] getUnixShellEnvironment#spawn ["-i","-l","-c"] '/vscode/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/node'  -p '"120ce5420bb8" + JSON.stringify(process.env) + "120ce5420bb8"'
+2023-05-04 08:54:39.090 [trace] ExtensionManagementService#cleanUp
+2023-05-04 08:54:39.109 [info] Extension host agent started.
+2023-05-04 08:54:39.220 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/extensions (excludes: <none>, includes: <all>)
+2023-05-04 08:54:39.222 [debug] No uninstalled extensions found.
+2023-05-04 08:54:39.227 [trace] ExtensionManagementService#removeGeneratedFolders
+2023-05-04 08:54:39.256 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/dbaeumer.vscode-eslint-2.4.0
+2023-05-04 08:54:39.257 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/github.github-vscode-theme-6.3.4
+2023-05-04 08:54:39.257 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/ms-azuretools.vscode-docker-1.25.0
+2023-05-04 08:54:39.309 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>)
+2023-05-04 08:54:39.316 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/extensions'
+2023-05-04 08:54:39.350 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions","external":"file:///home/ubuntu/.vscode-remote/extensions","path":"/home/ubuntu/.vscode-remote/extensions","scheme":"file"}
+2023-05-04 08:54:39.357 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/extensions/extensions.json'
+2023-05-04 08:54:39.435 [info] [127.0.0.1][87671e9e][ManagementConnection] New connection established.
+2023-05-04 08:54:39.440 [trace] [127.0.0.1][997e393f][ExtensionHostConnection] - startParams language: ru
+2023-05-04 08:54:39.440 [trace] [127.0.0.1][997e393f][ExtensionHostConnection] - startParams env: {}
+2023-05-04 08:54:39.441 [info] [127.0.0.1][997e393f][ExtensionHostConnection] New connection established.
+2023-05-04 08:54:39.663 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-05-04 08:54:39.672 [info] [127.0.0.1][997e393f][ExtensionHostConnection] <222> Launched Extension Host Process.
+2023-05-04 08:54:39.738 [trace] Started scanning system extensions
+2023-05-04 08:54:39.745 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-05-04 08:54:39.748 [trace] ExtensionManagementService.refreshReportedCache
+2023-05-04 08:54:39.749 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-05-04 08:54:39.751 [trace] Started scanning system extensions
+2023-05-04 08:54:39.757 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-05-04 08:54:39.760 [info] Log level changed to info
+2023-05-04 08:54:40.464 [info] Installing extensions...
+2023-05-04 08:54:42.733 [info] Installing extension 'ms-ceintl.vscode-language-pack-ru'...
+2023-05-04 08:54:42.734 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ru
+2023-05-04 08:54:42.781 [info] Installing extension: ms-ceintl.vscode-language-pack-ru
+2023-05-04 08:54:46.073 [info] Extension signature is verified: ms-ceintl.vscode-language-pack-ru
+2023-05-04 08:54:46.214 [info] Extracted extension to /home/ubuntu/.vscode-remote/extensions/.6aba3e2d-a029-4942-80b0-77727e0012c3: ms-ceintl.vscode-language-pack-ru
+2023-05-04 08:54:46.315 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.78.2023050309
+2023-05-04 08:54:46.318 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ru
+2023-05-04 08:54:46.342 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ru
+2023-05-04 08:54:46.424 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ru
+2023-05-04 08:54:46.426 [info] Extension 'ms-ceintl.vscode-language-pack-ru' v1.78.2023050309 was successfully installed.
+2023-05-04 08:54:54.206 [info] Getting Manifest... github.codespaces
+2023-05-04 08:54:54.206 [info] Getting Manifest... ms-python.python
+2023-05-04 08:54:54.206 [info] Getting Manifest... ms-python.vscode-pylance
+2023-05-04 08:54:54.206 [info] Getting Manifest... ms-toolsai.jupyter
+2023-05-04 08:54:54.206 [info] Getting Manifest... redhat.java
+2023-05-04 08:54:54.206 [info] Getting Manifest... vscjava.vscode-java-debug
+2023-05-04 08:54:54.234 [info] Installing extension: ms-toolsai.jupyter
+2023-05-04 08:54:54.279 [info] Installing extension: github.codespaces
+2023-05-04 08:54:54.284 [info] Installing extension: ms-python.vscode-pylance
+2023-05-04 08:54:54.286 [info] Installing extension: vscjava.vscode-java-debug
+2023-05-04 08:54:54.324 [info] Installing extension: redhat.java
+2023-05-04 08:54:54.327 [info] Installing extension: ms-python.python
+2023-05-04 08:54:58.184 [info] Getting Manifest... ms-python.python
+2023-05-04 08:54:58.604 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-05-04 08:55:02.434 [info] Extension signature is verified: github.codespaces
+2023-05-04 08:55:03.847 [info] Extracted extension to /home/ubuntu/.vscode-remote/extensions/.4c10e526-4bac-478c-a7ec-3f82634e1a63: github.codespaces
+2023-05-04 08:55:03.891 [info] Extension signature is verified: ms-toolsai.jupyter
+2023-05-04 08:55:03.991 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/github.codespaces-1.14.7
+2023-05-04 08:55:04.015 [info] Extracting extension completed. github.codespaces
+2023-05-04 08:55:04.073 [info] Extension installed successfully: github.codespaces
+2023-05-04 08:55:04.131 [info] Marked extension as uninstalled github.codespaces-1.14.5
+2023-05-04 08:55:04.433 [info] Extension signature is verified: vscjava.vscode-java-debug
+2023-05-04 08:55:04.706 [info] Extracted extension to /home/ubuntu/.vscode-remote/extensions/.8831c57b-21f4-4e88-b9ed-303e0cc80e44: vscjava.vscode-java-debug
+2023-05-04 08:55:04.828 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/vscjava.vscode-java-debug-0.50.0
+2023-05-04 08:55:04.849 [info] Extracting extension completed. vscjava.vscode-java-debug
+2023-05-04 08:55:04.887 [info] Extension installed successfully: vscjava.vscode-java-debug
+2023-05-04 08:55:04.919 [info] Marked extension as uninstalled vscjava.vscode-java-debug-0.49.1
+2023-05-04 08:55:05.163 [info] Extension signature is verified: ms-python.python
+2023-05-04 08:55:05.766 [info] Extracted extension to /home/ubuntu/.vscode-remote/extensions/.52a3861f-8ae7-466e-91d9-4e505f12dc66: ms-toolsai.jupyter
+2023-05-04 08:55:05.822 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-toolsai.jupyter-2023.4.1011241018-linux-x64
+2023-05-04 08:55:05.849 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-05-04 08:55:05.909 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-05-04 08:55:05.946 [info] Marked extension as uninstalled ms-toolsai.jupyter-2023.3.1201040234
+2023-05-04 08:55:06.331 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-05-04 08:55:07.246 [info] Extension signature is verified: redhat.java
+2023-05-04 08:55:16.867 [info] Extracted extension to /home/ubuntu/.vscode-remote/extensions/.734b0ca3-c659-42b7-8f08-82a313e8625f: redhat.java
+2023-05-04 08:55:16.996 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/redhat.java-1.18.0-linux-x64
+2023-05-04 08:55:17.015 [info] Extracting extension completed. redhat.java
+2023-05-04 08:55:17.060 [info] Extension installed successfully: redhat.java
+2023-05-04 08:55:17.113 [info] Marked extension as uninstalled redhat.java-1.17.0-linux-x64
+2023-05-04 08:55:17.927 [info] Extracted extension to /home/ubuntu/.vscode-remote/extensions/.4fad9263-d9f2-4825-a30f-9a35798e8afe: ms-python.python
+2023-05-04 08:55:18.029 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-python.python-2023.8.0
+2023-05-04 08:55:18.043 [info] Extracting extension completed. ms-python.python
+2023-05-04 08:55:18.113 [info] Extension installed successfully: ms-python.python
+2023-05-04 08:55:18.116 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-05-04 08:55:18.130 [info] Marked extension as uninstalled ms-python.python-2023.6.1
+2023-05-04 08:55:21.496 [info] Extracted extension to /home/ubuntu/.vscode-remote/extensions/.a5892c31-c4f6-4ef1-a2e1-2d25476793d5: ms-python.vscode-pylance
+2023-05-04 08:55:21.775 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.5.10
+2023-05-04 08:55:21.790 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-05-04 08:55:21.818 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-05-04 08:55:21.823 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.4.30
+2023-05-04 08:59:39.119 [info] New EH opened, aborting shutdown
+2023-05-04 11:28:23.399 [info] [127.0.0.1][87671e9e][ManagementConnection] The client has reconnected.
+2023-05-04 11:28:23.405 [info] [127.0.0.1][997e393f][ExtensionHostConnection] The client has reconnected.
+2023-05-04 11:49:10.532 [info] [127.0.0.1][87671e9e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-04 11:49:10.937 [info] [127.0.0.1][997e393f][ExtensionHostConnection] <222> Extension Host Process exited with code: 0, signal: null.
+2023-05-04 11:49:10.938 [info] Last EH closed, waiting before shutting down
+2023-05-04 11:54:10.939 [info] Last EH closed, shutting down

@@ -1,0 +1,12 @@
+Visual Studio Code (1.77.3, codespaces, codespaces)
+Jupyter Extension Version: 2023.3.1201040234.
+Python Extension Version: 2023.6.1.
+Workspace folder /workspaces/124855513
+Пользователь принадлежит к экспериментальной группе "jupyterEnhancedDataViewer"
+Пользователь принадлежит к экспериментальной группе "jupyterTestcf"
+info 23:25:52.260: LSP Notebooks experiment is enabled
+warn 23:26:38.784: Failed to get activated env vars for /usr/local/bin/python in 45873ms
+info 23:26:38.827: Process Execution: > /usr/local/bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+> /usr/local/bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+info 23:26:38.884: Process Execution: > /usr/local/bin/python -m pip list
+> /usr/local/bin/python -m pip list

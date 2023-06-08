@@ -1,0 +1,23 @@
+[Info  - 10:01:54 AM] (1386) Pylance language server 2023.4.30 (pyright 50d44cf9) starting
+[Info  - 10:01:55 AM] (1386) Server root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.4.30/dist
+[Info  - 10:01:55 AM] (1386) Starting service instance "124855513"
+[Info  - 10:01:55 AM] (1386) Auto-indent enabled
+[Info  - 10:01:55 AM] (1386) Setting pythonPath for service "124855513": "/usr/local/bin/python"
+[Warn  - 10:01:55 AM] (1386) stubPath /workspaces/124855513/typings is not a valid directory.
+[Info  - 10:01:55 AM] (1386) Assuming Python version 3.11
+[Info  - 10:01:56 AM] (1386) Found 1 source file
+[Info  - 10:01:56 AM] (1386) Background analysis(1) root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.4.30/dist
+[Info  - 10:01:56 AM] (1386) Background analysis(1) started
+[Info  - 10:01:58 AM] (1386) Indexer background runner(2) root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.4.30/dist (index)
+[Info  - 10:01:58 AM] (1386) Indexing(2) started
+[Info  - 10:01:58 AM] (1386) [BG(1)] Long operation: getSemanticTokens full at /workspaces/124855513/breakfast/breakfast.py (2630ms)
+[Info  - 10:02:01 AM] (1386) [IDX(2)] Long operation: scan packages /workspaces/124855513 (3491ms)
+[Info  - 10:02:01 AM] (1386) scanned(2) 254 files over 1 exec env
+[Info  - 10:02:10 AM] (1386) [IDX(2)] Long operation: index execution environment /workspaces/124855513 (8912ms)
+[Info  - 10:02:10 AM] (1386) [IDX(2)] Long operation: index packages /workspaces/124855513 (8928ms)
+[Info  - 10:02:10 AM] (1386) indexed(2) 188 files over 1 exec env
+[Info  - 10:02:10 AM] (1386) Indexing finished(2).
+[Info  - 10:06:28 AM] (1386) No source files found.
+[Info  - 10:07:55 AM] (1386) Found 1 source file
+[Info  - 10:09:41 AM] (1386) No source files found.
+[Info  - 10:10:52 AM] (1386) Found 1 source file

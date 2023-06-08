@@ -1,0 +1,23 @@
+Experiment 'pythonPromptNewFormatterExt' is active
+Experiment 'pythonPromptNewToolsExt' is active
+> conda info --json
+> /bin/python3 -I ~/.vscode-remote/extensions/ms-python.python-2023.6.1/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.6.1/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 -I ~/.vscode-remote/extensions/ms-python.python-2023.6.1/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.6.1/pythonFiles/interpreterInfo.py
+> /usr/local/bin/python -I ~/.vscode-remote/extensions/ms-python.python-2023.6.1/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.6.1/pythonFiles/interpreterInfo.py
+Python interpreter path: /usr/local/bin/python
+Starting Pylance language server.
+> /usr/local/bin/python ~/.vscode-remote/extensions/ms-python.python-2023.6.1/pythonFiles/normalizeSelection.py
+Send text to terminal: /usr/local/bin/python
+Send text to terminal: greeting = input("Greeting: ")
+
+> /usr/local/bin/python ~/.vscode-remote/extensions/ms-python.python-2023.6.1/pythonFiles/normalizeSelection.py
+Send text to terminal: greeting = input("Greeting: ")
+
+> /usr/local/bin/python ~/.vscode-remote/extensions/ms-python.python-2023.6.1/pythonFiles/normalizeSelection.py
+Send text to terminal:         retern 0"""
+
+
+> /usr/local/bin/python ~/.vscode-remote/extensions/ms-python.python-2023.6.1/pythonFiles/normalizeSelection.py
+Send text to terminal:              try:
+
+

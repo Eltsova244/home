@@ -1,0 +1,14 @@
+Visual Studio Code (1.78.2, codespaces, codespaces)
+Jupyter Extension Version: 2023.4.1011241018.
+Python Extension Version: 2023.8.0.
+Platform: linux (x64).
+Workspace folder /home/ubuntu, Home = /home/ubuntu
+09:46:36.645 [info] Start refreshing Kernel Picker (1686192396645)
+09:46:36.671 [info] Using Pylance
+09:46:54.079 [info] End refreshing Kernel Picker (1686192396645)
+09:46:54.552 [warn] Failed to get activated env vars for /usr/local/bin/python in 16169ms
+09:46:54.587 [info] Process Execution: /usr/local/bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+09:46:54.647 [info] Process Execution: /usr/local/bin/python -m pip list
+10:26:46.048 [info] Shutting down notebooks for 41b2799d-686e-464e-80d0-bd79a713a0dc
+10:26:46.048 [info] Disposing HostJupyterExecution ae3d0260-4d26-4f48-a2c5-984e19a29ad4
+10:26:46.048 [info] Disposing HostJupyterExecution ae3d0260-4d26-4f48-a2c5-984e19a29ad4

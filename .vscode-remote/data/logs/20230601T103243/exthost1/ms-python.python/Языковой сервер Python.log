@@ -1,0 +1,29 @@
+2023-06-01 10:33:07.916 [info] [Info  - 10:33:07 AM] (1224) Pylance language server 2023.5.40 (pyright e6d7b84c) starting
+2023-06-01 10:33:07.917 [info] [Info  - 10:33:07 AM] (1224) Server root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.5.40/dist
+2023-06-01 10:33:07.917 [info] [Info  - 10:33:07 AM] (1224) Starting service instance "124855513"
+2023-06-01 10:33:07.992 [info] [Info  - 10:33:07 AM] (1224) Setting pythonPath for service "124855513": "/usr/local/bin/python"
+2023-06-01 10:33:07.997 [info] [Warn  - 10:33:07 AM] (1224) stubPath /workspaces/124855513/typings is not a valid directory.
+2023-06-01 10:33:08.113 [info] [Info  - 10:33:08 AM] (1224) Assuming Python version 3.11
+2023-06-01 10:33:08.879 [info] [Info  - 10:33:08 AM] (1224) Found 1 source file
+2023-06-01 10:33:08.953 [info] [Info  - 10:33:08 AM] (1224) Background analysis(1) root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.5.40/dist
+2023-06-01 10:33:08.953 [info] [Info  - 10:33:08 AM] (1224) Background analysis(1) started
+2023-06-01 10:38:07.914 [info] [Info  - 10:38:07 AM] (1224) Indexer background runner(2) root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.5.40/dist (index)
+2023-06-01 10:38:07.914 [info] [Info  - 10:38:07 AM] (1224) Indexing(2) started
+2023-06-01 10:38:09.779 [info] [Info  - 10:38:09 AM] (1224) scanned(2) 274 files over 1 exec env
+2023-06-01 10:38:17.583 [info] [Info  - 10:38:17 AM] (1224) [IDX(2)] Long operation: index execution environment /workspaces/124855513 (7706ms)
+2023-06-01 10:38:17.597 [info] [Info  - 10:38:17 AM] (1224) [IDX(2)] Long operation: index packages /workspaces/124855513 (7725ms)
+2023-06-01 10:38:17.597 [info] [Info  - 10:38:17 AM] (1224) indexed(2) 208 files over 1 exec env
+2023-06-01 10:38:17.615 [info] [Info  - 10:38:17 AM] (1224) Indexing finished(2).
+2023-06-01 10:54:45.262 [info] [Info  - 10:54:45 AM] (1224) Found 3 source files
+2023-06-01 10:55:35.769 [info] [Info  - 10:55:35 AM] (1224) Indexer background runner(3) root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.5.40/dist (refresh)
+2023-06-01 10:55:35.770 [info] [Info  - 10:55:35 AM] (1224) Indexing(3) started
+2023-06-01 10:55:37.070 [info] [Info  - 10:55:37 AM] (1224) scanned(3) 275 files over 1 exec env
+2023-06-01 10:55:37.545 [info] [Info  - 10:55:37 AM] (1224) [BG(1)] Long operation: analyzing: /workspaces/124855513/tictactoe/runner.py (2169ms)
+2023-06-01 10:55:43.567 [info] [Info  - 10:55:43 AM] (1224) [IDX(3)] Long operation: index execution environment /workspaces/124855513 (6235ms)
+2023-06-01 10:55:43.568 [info] [Info  - 10:55:43 AM] (1224) [IDX(3)] Long operation: index packages /workspaces/124855513 (6252ms)
+2023-06-01 10:55:43.568 [info] [Info  - 10:55:43 AM] (1224) indexed(3) 209 files over 1 exec env
+2023-06-01 10:55:43.590 [info] [Info  - 10:55:43 AM] (1224) Indexing finished(3).
+2023-06-01 10:58:32.979 [info] [Info  - 10:58:32 AM] (1224) Found 1 source file
+2023-06-01 10:59:19.387 [info] [Info  - 10:59:19 AM] (1224) Found 3 source files
+2023-06-01 11:00:53.756 [info] [Info  - 11:00:53 AM] (1224) Found 1 source file
+2023-06-01 11:02:29.980 [info] [Info  - 11:02:29 AM] (1224) Found 3 source files

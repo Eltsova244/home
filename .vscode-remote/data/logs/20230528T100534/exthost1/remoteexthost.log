@@ -1,0 +1,6 @@
+2023-05-28 10:06:27.797 [info] Extension host with pid 227 started
+2023-05-28 10:06:27.827 [error] Error: EEXIST: file already exists, open '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/2c67615d/vscode.lock'
+2023-05-28 10:06:27.829 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/2c67615d/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-05-28 10:06:27.837 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/2c67615d/vscode.lock': The pid 375 appears to be gone.
+2023-05-28 10:06:27.837 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/2c67615d/vscode.lock': Deleting a stale lock.
+2023-05-28 10:06:27.897 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/2c67615d/vscode.lock': Lock acquired.

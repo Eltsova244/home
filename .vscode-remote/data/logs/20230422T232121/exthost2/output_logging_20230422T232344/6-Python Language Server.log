@@ -1,0 +1,21 @@
+[Info  - 11:26:38 PM] (3918) Pylance language server 2023.4.30 (pyright 50d44cf9) starting
+[Info  - 11:26:38 PM] (3918) Server root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.4.30/dist
+[Info  - 11:26:38 PM] (3918) Starting service instance "124855513"
+[Info  - 11:26:38 PM] (3918) Auto-indent enabled
+[Info  - 11:26:39 PM] (3918) Setting pythonPath for service "124855513": "/usr/local/bin/python"
+[Warn  - 11:26:39 PM] (3918) stubPath /workspaces/124855513/typings is not a valid directory.
+[Info  - 11:26:40 PM] (3918) Assuming Python version 3.11
+[Info  - 11:26:41 PM] (3918) Found 1 source file
+[Info  - 11:26:41 PM] (3918) Background analysis(1) root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.4.30/dist
+[Info  - 11:26:41 PM] (3918) Background analysis(1) started
+[Info  - 11:26:42 PM] (3918) Indexer background runner(2) root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.4.30/dist (index)
+[Info  - 11:26:42 PM] (3918) Indexing(2) started
+[Info  - 11:26:44 PM] (3918) [BG(1)] Long operation: getSemanticTokens full at /workspaces/124855513/bitcoin/bitcoin.py (3218ms)
+[Info  - 11:26:47 PM] (3918) [IDX(2)] Long operation: scan packages /workspaces/124855513 (4778ms)
+[Info  - 11:26:47 PM] (3918) scanned(2) 255 files over 1 exec env
+[Info  - 11:26:58 PM] (3918) [IDX(2)] Long operation: index execution environment /workspaces/124855513 (10319ms)
+[Info  - 11:26:58 PM] (3918) [IDX(2)] Long operation: index packages /workspaces/124855513 (10358ms)
+[Info  - 11:26:58 PM] (3918) indexed(2) 189 files over 1 exec env
+[Info  - 11:26:58 PM] (3918) Indexing finished(2).
+[Info  - 11:31:37 PM] (3918) Found 2 source files
+[Info  - 11:33:26 PM] (3918) Found 3 source files

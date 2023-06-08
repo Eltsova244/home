@@ -1,0 +1,96 @@
+{
+	"name": "markdown50",
+	"displayName": "CS50-Flavored Markdown",
+	"description": "CS50-Flavored Markdown",
+	"icon": "images/markdown50.png",
+	"version": "1.0.1",
+	"engines": {
+		"vscode": "^1.71.0"
+	},
+	"publisher": "CS50",
+	"repository": "https://github.com/cs50/markdown50.vsix",
+	"categories": [
+		"Education",
+		"Formatters"
+	],
+	"activationEvents": [
+		"onStartupFinished"
+	],
+	"main": "./out/extension.js",
+	"contributes": {
+		"commands": [
+			{
+				"command": "markdown50.openPreviewToTheSide",
+				"title": "Open Preview to the Side",
+				"icon": "$(open-preview)"
+			},
+			{
+				"command": "markdown50.showSource",
+				"title": "Show Source",
+				"icon": "$(go-to-file)"
+			}
+		],
+		"menus": {
+			"editor/title": [
+				{
+					"command": "markdown50.openPreviewToTheSide",
+					"when": "editorLangId == markdown",
+					"group": "navigation"
+				},
+				{
+					"command": "markdown50.showSource",
+					"when": "activeWebviewPanelId == markdown50.preview",
+					"group": "navigation"
+				}
+			]
+		}
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"pretest": "npm run compile && npm run lint",
+		"lint": "eslint src --ext ts",
+		"test": "node ./out/test/runTest.js"
+	},
+	"devDependencies": {
+		"@types/glob": "^7.2.0",
+		"@types/mocha": "^9.1.1",
+		"@types/node": "16.x",
+		"@types/vscode": "^1.71.0",
+		"@typescript-eslint/eslint-plugin": "^5.27.0",
+		"@typescript-eslint/parser": "^5.27.0",
+		"@vscode/test-electron": "^2.1.3",
+		"@vscode/vsce": "^2.19.0",
+		"eslint": "^8.16.0",
+		"glob": "^8.0.3",
+		"mocha": "^10.0.0",
+		"typescript": "^4.7.2"
+	},
+	"dependencies": {
+		"@types/js-yaml": "^4.0.5",
+		"axios": "^0.27.2",
+		"highlight.js": "^11.6.0",
+		"html-entities": "^2.3.3",
+		"js-yaml": "^4.1.0",
+		"liquidjs": "^10.7.0",
+		"luxon": "^3.0.3",
+		"markdown-it": "^13.0.1",
+		"markdown-it-attrs": "^4.1.4",
+		"markdown-it-highlightjs": "^4.0.1",
+		"node-html-parser": "^6.0.0",
+		"pretty": "^2.0.0"
+	},
+	"__metadata": {
+		"id": "79cf07cd-377f-477c-9cf9-054fe06c9b45",
+		"publisherId": "665be722-37c1-4a6e-b62e-7dd0e12b5769",
+		"publisherDisplayName": "CS50",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isMachineScoped": true,
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1681957365965,
+		"preRelease": false
+	}
+}

@@ -1,0 +1,10 @@
+2023-06-08 10:27:19.585 [warning] /home/ubuntu/.ssh/config: ENOENT: no such file or directory, open '/home/ubuntu/.ssh/config'
+2023-06-08 10:27:19.689 [info] Looking for git repository
+2023-06-08 10:27:19.689 [info] Found 0 repositories during activation
+2023-06-08 10:27:19.689 [info] Git repository found, initializing review manager and pr tree view.
+2023-06-08 10:27:19.689 [info] Registering git provider
+2023-06-08 10:27:33.443 [info] Repository file:///home/ubuntu has been opened
+2023-06-08 10:27:33.443 [info] Review> Validate state in progress
+2023-06-08 10:27:33.443 [info] Review> Validating state...
+2023-06-08 10:27:33.446 [warning] No remotes found. The following remotes are missing: origin, upstream
+2023-06-08 10:27:33.446 [info] No GitHub remotes found for folder /home/ubuntu

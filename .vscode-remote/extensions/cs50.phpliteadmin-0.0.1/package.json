@@ -1,0 +1,67 @@
+{
+	"name": "phpliteadmin",
+	"displayName": "CS50 phpLiteAdmin",
+	"description": "Preview SQLite database in Visual Studio Code.",
+	"version": "0.0.1",
+	"publisher": "CS50",
+	"repository": "https://github.com/cs50/phpliteadmin.vsix",
+	"engines": {
+		"vscode": "^1.59.0"
+	},
+	"categories": [
+		"Education"
+	],
+	"activationEvents": [
+		"onStartupFinished"
+	],
+	"main": "./out/extension.js",
+	"contributes": {
+		"commands": [
+			{
+				"command": "phpliteadmin50.open",
+				"title": "Open in phpLiteAdmin",
+				"enablement": "phpliteadmin50:didActivateExtension"
+			}
+		],
+		"customEditors": [
+			{
+				"viewType": "cs50.phpliteadmin",
+				"displayName": "phpLiteAdmin",
+				"selector": [
+					{
+						"filenamePattern": "*.db"
+					}
+				],
+				"priority": "option"
+			}
+		],
+		"menus": {
+			"explorer/context": [
+				{
+					"command": "phpliteadmin50.open",
+					"when": "resourceExtname == '.db'",
+					"group": "2_workspace@0"
+				}
+			]
+		}
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -p ./",
+		"lint": "eslint . --ext .ts,.tsx",
+		"watch": "tsc -watch -p ./"
+	},
+	"devDependencies": {
+		"@types/node": "^12.12.0",
+		"@types/vscode": "^1.34.0",
+		"@typescript-eslint/eslint-plugin": "^4.16.0",
+		"@typescript-eslint/parser": "^4.16.0",
+		"eslint": "^7.21.0",
+		"typescript": "^4.2.2"
+	},
+	"__metadata": {
+		"isApplicationScoped": false,
+		"isMachineScoped": true,
+		"installedTimestamp": 1676441179165
+	}
+}

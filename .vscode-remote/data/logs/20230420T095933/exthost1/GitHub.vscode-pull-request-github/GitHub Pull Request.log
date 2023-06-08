@@ -1,0 +1,67 @@
+2023-04-20 10:01:53.806 [warning] /home/ubuntu/.ssh/config: ENOENT: no such file or directory, open '/home/ubuntu/.ssh/config'
+2023-04-20 10:01:54.887 [info] Looking for git repository
+2023-04-20 10:01:54.887 [info] Found 0 repositories during activation
+2023-04-20 10:01:54.887 [info] Git repository found, initializing review manager and pr tree view.
+2023-04-20 10:01:54.924 [info] Registering git provider
+2023-04-20 10:01:54.924 [info] Review> Validate state in progress
+2023-04-20 10:01:54.924 [info] Review> Validating state...
+2023-04-20 10:01:55.223 [info] Found GitHub remote for folder /workspaces/124855513
+2023-04-20 10:01:55.463 [info] Review> Queuing additional validate state
+2023-04-20 10:01:55.463 [info] Repo state for file:///workspaces/124855513 changed.
+2023-04-20 10:01:55.463 [info] Repo file:///workspaces/124855513 has already been setup.
+2023-04-20 10:01:56.036 [info] Review> no matching pull request metadata found for current branch main
+2023-04-20 10:01:56.571 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-04-20 10:01:58.157 [info] Review> Validating state...
+2023-04-20 10:01:58.283 [info] Found GitHub remote for folder /workspaces/124855513
+2023-04-20 10:01:59.044 [info] Review> no matching pull request metadata found for current branch main
+2023-04-20 10:01:59.610 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-04-20 10:02:29.219 [info] Review> Validate state in progress
+2023-04-20 10:02:29.219 [info] Review> Validating state...
+2023-04-20 10:02:29.528 [info] Found GitHub remote for folder /workspaces/124855513
+2023-04-20 10:02:29.689 [info] Review> no matching pull request metadata found for current branch main
+2023-04-20 10:02:29.995 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-04-20 10:02:30.895 [info] Review> Validate state in progress
+2023-04-20 10:02:30.895 [info] Review> Validating state...
+2023-04-20 10:02:31.144 [info] Found GitHub remote for folder /workspaces/124855513
+2023-04-20 10:02:31.289 [info] Review> no matching pull request metadata found for current branch main
+2023-04-20 10:02:31.575 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-04-20 10:05:26.751 [info] Review> Validate state in progress
+2023-04-20 10:05:26.751 [info] Review> Validating state...
+2023-04-20 10:05:27.200 [info] Found GitHub remote for folder /workspaces/124855513
+2023-04-20 10:05:27.392 [info] Review> no matching pull request metadata found for current branch main
+2023-04-20 10:05:27.695 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-04-20 10:05:28.350 [info] Review> Validate state in progress
+2023-04-20 10:05:28.350 [info] Review> Validating state...
+2023-04-20 10:05:28.492 [info] Found GitHub remote for folder /workspaces/124855513
+2023-04-20 10:05:28.619 [info] Review> no matching pull request metadata found for current branch main
+2023-04-20 10:05:28.920 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-04-20 10:07:43.368 [info] Review> Validate state in progress
+2023-04-20 10:07:43.368 [info] Review> Validating state...
+2023-04-20 10:07:43.761 [info] Found GitHub remote for folder /workspaces/124855513
+2023-04-20 10:07:43.970 [info] Review> no matching pull request metadata found for current branch main
+2023-04-20 10:07:44.493 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-04-20 10:07:45.042 [info] Review> Validate state in progress
+2023-04-20 10:07:45.042 [info] Review> Validating state...
+2023-04-20 10:07:45.301 [info] Found GitHub remote for folder /workspaces/124855513
+2023-04-20 10:07:45.428 [info] Review> no matching pull request metadata found for current branch main
+2023-04-20 10:07:45.716 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-04-20 10:08:31.096 [info] Review> Validate state in progress
+2023-04-20 10:08:31.096 [info] Review> Validating state...
+2023-04-20 10:08:31.411 [info] Found GitHub remote for folder /workspaces/124855513
+2023-04-20 10:08:31.643 [info] Review> no matching pull request metadata found for current branch main
+2023-04-20 10:08:31.953 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-04-20 10:08:32.574 [info] Review> Validate state in progress
+2023-04-20 10:08:32.574 [info] Review> Validating state...
+2023-04-20 10:08:32.787 [info] Found GitHub remote for folder /workspaces/124855513
+2023-04-20 10:08:32.923 [info] Review> no matching pull request metadata found for current branch main
+2023-04-20 10:08:33.243 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-04-20 10:12:25.273 [info] Review> Validate state in progress
+2023-04-20 10:12:25.273 [info] Review> Validating state...
+2023-04-20 10:12:25.968 [info] Found GitHub remote for folder /workspaces/124855513
+2023-04-20 10:12:26.163 [info] Review> no matching pull request metadata found for current branch main
+2023-04-20 10:12:26.506 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-04-20 10:12:27.075 [info] Review> Validate state in progress
+2023-04-20 10:12:27.075 [info] Review> Validating state...
+2023-04-20 10:12:27.313 [info] Found GitHub remote for folder /workspaces/124855513
+2023-04-20 10:12:27.437 [info] Review> no matching pull request metadata found for current branch main
+2023-04-20 10:12:27.776 [info] Review> No matching pull request metadata found on GitHub for current branch main

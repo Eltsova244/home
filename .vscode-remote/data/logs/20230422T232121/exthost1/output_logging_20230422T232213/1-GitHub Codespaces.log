@@ -1,0 +1,22 @@
+[Client I] GitHub Codespaces version 1.14.5
+[Client I] isRunningInWeb: "true"
+[Client V] Initializing authentication
+[API I] Successfully signed in
+[Client:extension:7332 I] initializing
+[Client:extension:7332 I] creating LiveShare ConnectionHub, with type: "main thread"
+[Client:extension:7332 I] 1 connections used: > object #0: [object Object]
+[Client:extension:7332:resolver I] created with protocol "codespaces"
+[RemoteExplorer I] Updating codespace performance info
+[RemoteExplorer I] Updating codespace performance info
+[Client E] Failed to update codespaces list: Canceled> object #0: Canceled
+  at Object.k [as canceled] (/vscode/bin/linux-x64/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+  at /vscode/bin/linux-x64/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/workbench/api/node/extensionHostProcess.js:109:8301
+  at Array.forEach (<anonymous>)
+  at c.dispose (/vscode/bin/linux-x64/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/workbench/api/node/extensionHostProcess.js:109:8266)
+  at E.terminate (/vscode/bin/linux-x64/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/workbench/api/node/extensionHostProcess.js:111:9366)
+  at d.terminate (/vscode/bin/linux-x64/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/workbench/api/node/extensionHostProcess.js:115:1544)
+  at p (/vscode/bin/linux-x64/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/workbench/api/node/extensionHostProcess.js:125:18690)
+  at Q.a (/vscode/bin/linux-x64/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/workbench/api/node/extensionHostProcess.js:125:15245)
+  at Q.h (/vscode/bin/linux-x64/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/workbench/api/node/extensionHostProcess.js:66:46636)
+  at listOnTimeout (node:internal/timers:559:17)
+  at processTimers (node:internal/timers:502:7)
