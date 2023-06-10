@@ -405,3 +405,5 @@ npx cs204 2023/shirt local
 npx cs204 2023/shirt
 cd home
 pip install -r requirements.txt
+gunicorn app:app
+clear
