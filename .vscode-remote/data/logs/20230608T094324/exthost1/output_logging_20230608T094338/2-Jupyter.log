@@ -11,3 +11,6 @@ Workspace folder /workspaces/124855513, Home = /home/ubuntu
 09:44:11.553 [warn] Failed to get activated env vars for /usr/local/bin/python in 8082ms
 09:44:11.576 [info] Process Execution: /usr/local/bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
 09:44:11.633 [info] Process Execution: /usr/local/bin/python -m pip list
+10:31:52.300 [info] Shutting down notebooks for 9bd8c9a4-e91d-45a9-8cbf-c86eab4f2681
+10:31:52.301 [info] Disposing HostJupyterExecution e4257e87-b619-4e1e-bd0e-62defd6b0331
+10:31:52.302 [info] Disposing HostJupyterExecution e4257e87-b619-4e1e-bd0e-62defd6b0331

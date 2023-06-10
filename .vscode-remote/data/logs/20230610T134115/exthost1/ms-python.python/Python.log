@@ -1,0 +1,27 @@
+2023-06-10 13:41:42.582 [info] Эксперимент «pythonaacf» активен
+2023-06-10 13:41:42.582 [info] Эксперимент «pythonPromptNewFormatterExt» активен
+2023-06-10 13:41:42.582 [info] Эксперимент «pythonPromptNewToolsExt» активен
+2023-06-10 13:41:42.582 [info] Test server listening.
+2023-06-10 13:41:42.582 [info] > conda info --json
+2023-06-10 13:41:42.582 [info] Found: /bin/python3 --> /bin/python3.10
+2023-06-10 13:41:42.582 [info] Found: /bin/python3.10 --> /bin/python3.10
+2023-06-10 13:41:42.582 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2023-06-10 13:41:42.582 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2023-06-10 13:41:42.582 [info] Found: /usr/local/bin/python --> /usr/local/bin/python3.11
+2023-06-10 13:41:42.582 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.11
+2023-06-10 13:41:42.582 [info] Found: /usr/local/bin/python3.11 --> /usr/local/bin/python3.11
+2023-06-10 13:41:42.582 [info] > /bin/python3 -I ~/.vscode-remote/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+2023-06-10 13:41:42.582 [info] > /usr/bin/python3 -I ~/.vscode-remote/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+2023-06-10 13:41:42.754 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-10 13:41:42.754 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-10 13:41:42.754 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-10 13:41:42.754 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-10 13:41:42.754 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-10 13:41:42.754 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-06-10 13:41:42.754 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-06-10 13:41:42.754 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-06-10 13:41:42.909 [info] > /usr/local/bin/python -I ~/.vscode-remote/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+2023-06-10 13:41:43.787 [info] Путь к интерпретатору Python: /usr/local/bin/python
+2023-06-10 13:41:44.560 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-10 13:41:44.561 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-10 13:41:44.887 [info] Запуск языкового сервера Pylance.

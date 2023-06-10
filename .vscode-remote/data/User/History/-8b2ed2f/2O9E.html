@@ -1,0 +1,19 @@
+{% extends 'layout.html' %}
+{% block body %}
+<img src="/static/gerbtspu118.png">
+<hr>
+<form action="/submit" method="post">
+    <input autofocus autocomplete="off" name="fname" type="text" placeholder="fname">
+    <input autocomplete="off" name="lname" type="text" placeholder="lname">
+    <select name="house">
+        <option disabled selected>House</option>
+        <option value="Gryffindor">Gryffindor</option>
+        <option value="Slytherin">Slytherin</option>
+        <option value="Hufflepuff">Hufflepuff</option>
+        <option value="Revenclaw">Revenclaw</option>
+    </select>
+    <button type="submit">Register</button>
+
+</form>
+{% endblock %}
+c

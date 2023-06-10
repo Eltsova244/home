@@ -1,0 +1,81 @@
+2023-06-08 11:17:28.481 [info] [Info  - 11:17:28 AM] (49932) Pylance language server 2023.6.10 (pyright 7784093a) starting
+2023-06-08 11:17:28.482 [info] [Info  - 11:17:28 AM] (49932) Server root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.6.10/dist
+2023-06-08 11:17:28.487 [info] [Info  - 11:17:28 AM] (49932) Starting service instance "ubuntu"
+2023-06-08 11:17:28.607 [info] [Info  - 11:17:28 AM] (49932) Setting pythonPath for service "ubuntu": "/usr/local/bin/python"
+2023-06-08 11:17:28.607 [info] [Warn  - 11:17:28 AM] (49932) stubPath /home/ubuntu/typings is not a valid directory.
+2023-06-08 11:17:28.723 [info] [Info  - 11:17:28 AM] (49932) Assuming Python version 3.11
+2023-06-08 11:17:28.987 [info] [Info  - 11:17:28 AM] (49932) Found 1 source file
+2023-06-08 11:17:30.040 [info] [Info  - 11:17:30 AM] (49932) Background analysis(1) root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.6.10/dist
+2023-06-08 11:17:30.065 [info] [Info  - 11:17:30 AM] (49932) Background analysis(1) started
+2023-06-08 11:21:28.914 [info] [Info  - 11:21:28 AM] (49932) Found 2 source files
+2023-06-08 11:21:29.186 [info] [Info  - 11:21:29 AM] (49932) Indexer background runner(2) root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.6.10/dist (index)
+2023-06-08 11:21:29.197 [info] [Info  - 11:21:29 AM] (49932) Indexing(2) started
+2023-06-08 11:21:30.469 [info] [Info  - 11:21:30 AM] (49932) scanned(2) 277 files over 1 exec env
+2023-06-08 11:21:40.410 [info] [Info  - 11:21:40 AM] (49932) [IDX(2)] Long operation: index execution environment /home/ubuntu (9810ms)
+2023-06-08 11:21:40.411 [info] [Info  - 11:21:40 AM] (49932) [IDX(2)] Long operation: index packages /home/ubuntu (9833ms)
+2023-06-08 11:21:40.411 [info] [Info  - 11:21:40 AM] (49932) indexed(2) 210 files over 1 exec env
+2023-06-08 11:21:40.437 [info] [Info  - 11:21:40 AM] (49932) Indexing finished(2).
+2023-06-08 11:23:47.973 [info] [Info  - 11:23:47 AM] (49932) Setting pythonPath for service "ubuntu": "/usr/local/bin/python"
+2023-06-08 11:23:47.974 [info] [Warn  - 11:23:47 AM] (49932) stubPath /home/ubuntu/typings is not a valid directory.
+2023-06-08 11:23:48.071 [info] [Info  - 11:23:48 AM] (49932) Assuming Python version 3.11
+2023-06-08 11:23:48.206 [info] [Info  - 11:23:48 AM] (49932) Found 2 source files
+2023-06-08 11:23:50.019 [info] [Info  - 11:23:50 AM] (49932) Indexer background runner(3) root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.6.10/dist (index)
+2023-06-08 11:23:50.020 [info] [Info  - 11:23:50 AM] (49932) Indexing(3) started
+2023-06-08 11:23:50.881 [info] [Info  - 11:23:50 AM] (49932) scanned(3) 277 files over 1 exec env
+2023-06-08 11:23:55.174 [info] [Info  - 11:23:55 AM] (49932) Setting pythonPath for service "ubuntu": "/usr/local/bin/python"
+2023-06-08 11:23:55.174 [info] [Warn  - 11:23:55 AM] (49932) stubPath /home/ubuntu/typings is not a valid directory.
+2023-06-08 11:23:55.236 [info] [Info  - 11:23:55 AM] (49932) Assuming Python version 3.11
+2023-06-08 11:23:55.478 [info] [Info  - 11:23:55 AM] (49932) Found 2 source files
+2023-06-08 11:23:56.521 [info] [Info  - 11:23:56 AM] (49932) [IDX(3)] Long operation: index execution environment /home/ubuntu (5421ms)
+2023-06-08 11:23:56.521 [info] [Info  - 11:23:56 AM] (49932) [IDX(3)] Long operation: index packages /home/ubuntu (5448ms)
+2023-06-08 11:23:57.197 [info] [Info  - 11:23:57 AM] (49932) scanned(3) 277 files over 1 exec env
+2023-06-08 11:24:01.500 [info] [Info  - 11:24:01 AM] (49932) Setting pythonPath for service "ubuntu": "/usr/local/bin/python"
+2023-06-08 11:24:01.501 [info] [Warn  - 11:24:01 AM] (49932) stubPath /home/ubuntu/typings is not a valid directory.
+2023-06-08 11:24:01.617 [info] [Info  - 11:24:01 AM] (49932) Assuming Python version 3.11
+2023-06-08 11:24:01.804 [info] [Info  - 11:24:01 AM] (49932) Found 2 source files
+2023-06-08 11:24:02.617 [info] [Info  - 11:24:02 AM] (49932) [IDX(3)] Long operation: index execution environment /home/ubuntu (5266ms)
+2023-06-08 11:24:02.617 [info] [Info  - 11:24:02 AM] (49932) [IDX(3)] Long operation: index packages /home/ubuntu (5272ms)
+2023-06-08 11:24:03.273 [info] [Info  - 11:24:03 AM] (49932) scanned(3) 277 files over 1 exec env
+2023-06-08 11:24:07.662 [info] [Info  - 11:24:07 AM] (49932) Setting pythonPath for service "ubuntu": "/usr/local/bin/python"
+2023-06-08 11:24:07.662 [info] [Warn  - 11:24:07 AM] (49932) stubPath /home/ubuntu/typings is not a valid directory.
+2023-06-08 11:24:07.733 [info] [Info  - 11:24:07 AM] (49932) Assuming Python version 3.11
+2023-06-08 11:24:07.927 [info] [Info  - 11:24:07 AM] (49932) Found 2 source files
+2023-06-08 11:24:08.048 [info] [Info  - 11:24:08 AM] (49932) [IDX(3)] Long operation: index execution environment /home/ubuntu (4511ms)
+2023-06-08 11:24:08.048 [info] [Info  - 11:24:08 AM] (49932) [IDX(3)] Long operation: index packages /home/ubuntu (4560ms)
+2023-06-08 11:24:08.973 [info] [Info  - 11:24:08 AM] (49932) scanned(3) 277 files over 1 exec env
+2023-06-08 11:24:14.218 [info] [Info  - 11:24:14 AM] (49932) Setting pythonPath for service "ubuntu": "/usr/local/bin/python"
+2023-06-08 11:24:14.218 [info] [Warn  - 11:24:14 AM] (49932) stubPath /home/ubuntu/typings is not a valid directory.
+2023-06-08 11:24:14.290 [info] [Info  - 11:24:14 AM] (49932) Assuming Python version 3.11
+2023-06-08 11:24:14.443 [info] [Info  - 11:24:14 AM] (49932) Found 2 source files
+2023-06-08 11:24:14.590 [info] [Info  - 11:24:14 AM] (49932) [IDX(3)] Long operation: index execution environment /home/ubuntu (5437ms)
+2023-06-08 11:24:14.590 [info] [Info  - 11:24:14 AM] (49932) [IDX(3)] Long operation: index packages /home/ubuntu (5443ms)
+2023-06-08 11:24:15.513 [info] [Info  - 11:24:15 AM] (49932) scanned(3) 277 files over 1 exec env
+2023-06-08 11:24:20.669 [info] [Info  - 11:24:20 AM] (49932) Setting pythonPath for service "ubuntu": "/usr/local/bin/python"
+2023-06-08 11:24:20.669 [info] [Warn  - 11:24:20 AM] (49932) stubPath /home/ubuntu/typings is not a valid directory.
+2023-06-08 11:24:20.769 [info] [Info  - 11:24:20 AM] (49932) Assuming Python version 3.11
+2023-06-08 11:24:20.953 [info] [Info  - 11:24:20 AM] (49932) Found 2 source files
+2023-06-08 11:24:21.259 [info] [Info  - 11:24:21 AM] (49932) [IDX(3)] Long operation: index execution environment /home/ubuntu (5556ms)
+2023-06-08 11:24:21.260 [info] [Info  - 11:24:21 AM] (49932) [IDX(3)] Long operation: index packages /home/ubuntu (5561ms)
+2023-06-08 11:24:22.020 [info] [Info  - 11:24:22 AM] (49932) scanned(3) 277 files over 1 exec env
+2023-06-08 11:24:27.909 [info] [Info  - 11:24:27 AM] (49932) [IDX(3)] Long operation: index execution environment /home/ubuntu (5827ms)
+2023-06-08 11:24:27.917 [info] [Info  - 11:24:27 AM] (49932) [IDX(3)] Long operation: index packages /home/ubuntu (5833ms)
+2023-06-08 11:24:27.926 [info] [Info  - 11:24:27 AM] (49932) indexed(3) 210 files over 1 exec env
+2023-06-08 11:24:27.939 [info] [Info  - 11:24:27 AM] (49932) Indexing finished(3).
+2023-06-08 11:24:27.943 [info] [Info  - 11:24:27 AM] (49932) Setting pythonPath for service "ubuntu": "/usr/local/bin/python"
+2023-06-08 11:24:27.945 [info] [Warn  - 11:24:27 AM] (49932) stubPath /home/ubuntu/typings is not a valid directory.
+2023-06-08 11:24:28.025 [info] [Info  - 11:24:28 AM] (49932) Assuming Python version 3.11
+2023-06-08 11:24:28.152 [info] [Info  - 11:24:28 AM] (49932) Found 2 source files
+2023-06-08 11:24:28.272 [info] [Info  - 11:24:28 AM] (49932) Setting pythonPath for service "ubuntu": "/usr/local/bin/python"
+2023-06-08 11:24:28.272 [info] [Warn  - 11:24:28 AM] (49932) stubPath /home/ubuntu/typings is not a valid directory.
+2023-06-08 11:24:28.427 [info] [Info  - 11:24:28 AM] (49932) Assuming Python version 3.11
+2023-06-08 11:24:28.698 [info] [Info  - 11:24:28 AM] (49932) Found 2 source files
+2023-06-08 11:24:30.170 [info] [Info  - 11:24:30 AM] (49932) Indexer background runner(4) root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.6.10/dist (index)
+2023-06-08 11:24:30.170 [info] [Info  - 11:24:30 AM] (49932) Indexing(4) started
+2023-06-08 11:24:30.411 [info] [Info  - 11:24:30 AM] (49932) Indexer background runner(5) root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.6.10/dist (index)
+2023-06-08 11:24:30.412 [info] [Info  - 11:24:30 AM] (49932) Indexing(5) started
+2023-06-08 11:24:31.115 [info] [Info  - 11:24:31 AM] (49932) scanned(5) 277 files over 1 exec env
+2023-06-08 11:24:41.273 [info] [Info  - 11:24:41 AM] (49932) [IDX(5)] Long operation: index execution environment /home/ubuntu (10012ms)
+2023-06-08 11:24:41.277 [info] [Info  - 11:24:41 AM] (49932) [IDX(5)] Long operation: index packages /home/ubuntu (10030ms)
+2023-06-08 11:24:41.277 [info] [Info  - 11:24:41 AM] (49932) indexed(5) 210 files over 1 exec env
+2023-06-08 11:24:41.294 [info] [Info  - 11:24:41 AM] (49932) Indexing finished(5).
+2023-06-08 12:34:51.738 [info] [Info  - 12:34:51 PM] (49932) Found 3 source files

@@ -1,0 +1,12 @@
+2023-06-08 10:43:26.703 [warning] /home/ubuntu/.ssh/config: ENOENT: no such file or directory, open '/home/ubuntu/.ssh/config'
+2023-06-08 10:43:28.356 [info] Looking for git repository
+2023-06-08 10:43:28.356 [info] Found 0 repositories during activation
+2023-06-08 10:43:28.356 [info] Git repository found, initializing review manager and pr tree view.
+2023-06-08 10:43:28.386 [info] Registering git provider
+2023-06-08 10:43:28.386 [info] Review> Validate state in progress
+2023-06-08 10:43:28.387 [info] Review> Validating state...
+2023-06-08 10:43:28.424 [info] Repo state for file:///home/ubuntu changed.
+2023-06-08 10:43:28.424 [info] Repo file:///home/ubuntu has already been setup.
+2023-06-08 10:43:28.523 [info] Found GitHub remote for folder /home/ubuntu
+2023-06-08 10:43:30.048 [info] Review> no matching pull request metadata found for current branch main
+2023-06-08 10:43:30.053 [info] Review> No matching pull request metadata found on GitHub for current branch main

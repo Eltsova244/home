@@ -2971,3 +2971,349 @@
 [Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #419 SessionRequestMessage (requestType=ping-check-connection)
 [Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #597 SessionRequestFailureMessage
 [Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #420 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #599 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:11.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #421 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #600 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #422 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #601 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:13.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #423 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #603 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:10.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #424 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #604 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:13.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #425 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #605 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:10.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #426 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #607 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #427 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #608 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #428 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #609 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #429 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #611 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #430 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #612 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #431 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #613 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #432 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #615 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #433 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #616 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #434 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #617 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #435 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #619 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #436 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #620 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #437 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #621 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #438 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #623 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:11.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #439 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #624 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #440 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #625 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:10.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #441 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #627 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:15.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #442 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #628 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:13.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #443 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #629 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #444 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #631 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #445 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #632 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #446 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #633 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #447 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #635 SessionRequestFailureMessage
+[Client:extension:319c:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Client:extension:319c:resolver V] disposing reason: 'vscode disposed the resolver', disposing 2 objects
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.c (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:27273)
+  at Object.readFile (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:101:25826)
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)

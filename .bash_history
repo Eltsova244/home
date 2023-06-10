@@ -347,3 +347,60 @@ git init
 git status
 git add .
 git status
+git add .
+git status
+cd home
+git commit -m "greet"
+git remote add origin git@github.com:Eltsova244/home.git
+git push origin main
+mkdir hogwarts
+cd hogwarts
+cd ..
+ls -a
+echo SPATH
+echo $PATH
+code .bashrc
+psql postgres://hogwarts_pgbp_user:tEVM7DHpJxZ9v0SMtWtPc6u99liOUL6H@dpg-ci0kqnm4dad5j71n377g-a.oregon-postgres.render.com/hogwarts_pgbp
+psql
+apt search -n postgresql
+sudo apt install postgresql-client-14
+sudo apt update
+\q
+\d
+psql postgres://hogwarts_pgbp_user:tEVM7DHpJxZ9v0SMtWtPc6u99liOUL6H@dpg-ci0kqnm4dad5j71n377g-a.oregon-postgres.render.com/hogwarts_pgbp
+sudo apt update
+sudo apt install postgresql-client-14
+psql postgres://hogwarts_pgbp_user:tEVM7DHpJxZ9v0SMtWtPc6u99liOUL6H@dpg-ci0kqnm4dad5j71n377g-a.oregon-postgres.render.com/hogwarts_pgbp
+ls -a
+pip install python-dotenv
+code app.py
+code .env
+python app.py
+pip install flask
+apt search -n psycopg2
+cd hogwarts
+sudo app install python3-psycopg2
+sudo apt install python3-psycopg2
+pip install flask-sqlalchemy  
+pip install gunicorn
+code requirements.txt
+code .gitignore
+/usr/local/bin/python
+ls
+cd hogwarts/
+mkdir templates
+mkdir ststic
+code templates/index.html
+wget https://www.tspu.edu.ru/images/gerbtspu118.png
+code model.py
+python model.py
+cd shirt
+code shirt.py
+python shirt.py 
+python shirt.py before1.jpg before2.jpg before3.jpg
+python shirt.py before1.jpg invalid_format.bmp
+python shirt.py non_existing_image.jpg after1.jpg
+python shirt.py before1.jpg after1.jpg
+npx cs204 2023/shirt local
+npx cs204 2023/shirt
+cd home

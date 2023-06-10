@@ -1,0 +1,24 @@
+2023-06-08 11:17:25.164 [info] Эксперимент «pythonPromptNewFormatterExt» активен
+2023-06-08 11:17:25.164 [info] Эксперимент «pythonPromptNewToolsExt» активен
+2023-06-08 11:17:25.164 [info] Эксперимент «pythonSurveyNotificationcf» активен
+2023-06-08 11:17:25.164 [info] Test server listening.
+2023-06-08 11:17:25.164 [info] > conda info --json
+2023-06-08 11:17:25.164 [info] Путь к интерпретатору Python: /usr/local/bin/python
+2023-06-08 11:17:25.165 [info] Found: /bin/python3 --> /bin/python3.10
+2023-06-08 11:17:25.166 [info] Found: /bin/python3.10 --> /bin/python3.10
+2023-06-08 11:17:25.221 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2023-06-08 11:17:25.221 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2023-06-08 11:17:25.249 [info] Found: /usr/local/bin/python --> /usr/local/bin/python3.11
+2023-06-08 11:17:25.249 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.11
+2023-06-08 11:17:25.249 [info] Found: /usr/local/bin/python3.11 --> /usr/local/bin/python3.11
+2023-06-08 11:17:25.273 [info] > /bin/python3 -I ./.vscode-remote/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py ./.vscode-remote/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+2023-06-08 11:17:25.320 [info] > /usr/bin/python3 -I ./.vscode-remote/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py ./.vscode-remote/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+2023-06-08 11:17:25.363 [info] > /usr/local/bin/python -I ./.vscode-remote/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py ./.vscode-remote/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+2023-06-08 11:17:28.536 [info] Запуск языкового сервера Pylance.
+2023-06-08 11:49:42.974 [info] > /usr/local/bin/python ./.vscode-remote/extensions/ms-python.python-2023.8.0/pythonFiles/normalizeSelection.py
+2023-06-08 11:49:43.549 [info] > /usr/local/bin/python ./.vscode-remote/extensions/ms-python.python-2023.8.0/pythonFiles/normalizeSelection.py
+2023-06-08 11:49:43.576 [info] Send text to terminal: /usr/local/bin/python
+2023-06-08 11:49:44.576 [info] Send text to terminal: id=ab.Column(ad.Integer)
+
+2023-06-08 11:49:44.576 [info] Send text to terminal: id=ab.Column(ad.Integer)
+

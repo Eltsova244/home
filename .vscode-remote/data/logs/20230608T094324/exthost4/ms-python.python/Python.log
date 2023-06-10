@@ -1,0 +1,17 @@
+2023-06-08 10:41:02.699 [info] Эксперимент «pythonPromptNewFormatterExt» активен
+2023-06-08 10:41:02.699 [info] Эксперимент «pythonPromptNewToolsExt» активен
+2023-06-08 10:41:02.699 [info] Эксперимент «pythonSurveyNotificationcf» активен
+2023-06-08 10:41:02.699 [info] Test server listening.
+2023-06-08 10:41:02.699 [info] > conda info --json
+2023-06-08 10:41:02.699 [info] Путь к интерпретатору Python: /usr/local/bin/python
+2023-06-08 10:41:02.824 [info] Found: /bin/python3 --> /bin/python3.10
+2023-06-08 10:41:02.841 [info] Found: /bin/python3.10 --> /bin/python3.10
+2023-06-08 10:41:02.947 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2023-06-08 10:41:02.948 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2023-06-08 10:41:03.358 [info] Found: /usr/local/bin/python --> /usr/local/bin/python3.11
+2023-06-08 10:41:03.359 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.11
+2023-06-08 10:41:03.359 [info] Found: /usr/local/bin/python3.11 --> /usr/local/bin/python3.11
+2023-06-08 10:41:03.422 [info] > /bin/python3 -I ~/.vscode-remote/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+2023-06-08 10:41:03.440 [info] > /usr/bin/python3 -I ~/.vscode-remote/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+2023-06-08 10:41:04.272 [info] > /usr/local/bin/python -I ~/.vscode-remote/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+2023-06-08 10:41:06.318 [info] Запуск языкового сервера Pylance.

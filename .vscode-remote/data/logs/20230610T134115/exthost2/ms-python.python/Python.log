@@ -1,0 +1,22 @@
+2023-06-10 13:49:21.491 [info] Эксперимент «pythonaacf» активен
+2023-06-10 13:49:21.491 [info] Эксперимент «pythonPromptNewFormatterExt» активен
+2023-06-10 13:49:21.491 [info] Эксперимент «pythonPromptNewToolsExt» активен
+2023-06-10 13:49:21.491 [info] Test server listening.
+2023-06-10 13:49:21.491 [info] Путь к интерпретатору Python: /usr/local/bin/python
+2023-06-10 13:49:21.491 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-10 13:49:21.491 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-10 13:49:21.491 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-06-10 13:49:21.491 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-06-10 13:49:21.491 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-06-10 13:49:27.872 [info] Запуск языкового сервера Pylance.
+2023-06-10 13:49:27.897 [info] Found: /bin/python3 --> /bin/python3.10
+2023-06-10 13:49:27.912 [info] Found: /bin/python3.10 --> /bin/python3.10
+2023-06-10 13:49:28.004 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2023-06-10 13:49:28.008 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2023-06-10 13:49:28.022 [info] Found: /usr/local/bin/python --> /usr/local/bin/python3.11
+2023-06-10 13:49:28.022 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.11
+2023-06-10 13:49:28.023 [info] Found: /usr/local/bin/python3.11 --> /usr/local/bin/python3.11
+2023-06-10 13:49:33.953 [info] > conda info --json
+2023-06-10 13:49:33.980 [info] > /bin/python3 -I ./.vscode-remote/extensions/ms-python.python-2023.10.0/pythonFiles/get_output_via_markers.py ./.vscode-remote/extensions/ms-python.python-2023.10.0/pythonFiles/interpreterInfo.py
+2023-06-10 13:49:33.994 [info] > /usr/bin/python3 -I ./.vscode-remote/extensions/ms-python.python-2023.10.0/pythonFiles/get_output_via_markers.py ./.vscode-remote/extensions/ms-python.python-2023.10.0/pythonFiles/interpreterInfo.py
+2023-06-10 13:49:34.195 [info] > /usr/local/bin/python -I ./.vscode-remote/extensions/ms-python.python-2023.10.0/pythonFiles/get_output_via_markers.py ./.vscode-remote/extensions/ms-python.python-2023.10.0/pythonFiles/interpreterInfo.py

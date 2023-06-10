@@ -8,3 +8,10 @@
 2023-06-08 10:27:33.443 [info] Review> Validating state...
 2023-06-08 10:27:33.446 [warning] No remotes found. The following remotes are missing: origin, upstream
 2023-06-08 10:27:33.446 [info] No GitHub remotes found for folder /home/ubuntu
+2023-06-08 10:32:34.010 [info] Review> Validate state in progress
+2023-06-08 10:32:34.013 [info] Review> Validating state...
+2023-06-08 10:32:34.014 [info] Repo state for file:///home/ubuntu changed.
+2023-06-08 10:32:34.014 [info] Repo file:///home/ubuntu has already been setup.
+2023-06-08 10:32:34.125 [info] Found GitHub remote for folder /home/ubuntu
+2023-06-08 10:32:34.724 [info] Review> no matching pull request metadata found for current branch main
+2023-06-08 10:32:34.724 [info] Review> No matching pull request metadata found on GitHub for current branch main

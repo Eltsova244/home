@@ -1,0 +1,22 @@
+2023-06-10 13:41:38.559 [warning] /home/ubuntu/.ssh/config: ENOENT: no such file or directory, open '/home/ubuntu/.ssh/config'
+2023-06-10 13:41:38.694 [info] Looking for git repository
+2023-06-10 13:41:38.694 [info] Found 0 repositories during activation
+2023-06-10 13:41:38.694 [info] Git repository found, initializing review manager and pr tree view.
+2023-06-10 13:41:38.707 [info] Registering git provider
+2023-06-10 13:41:38.707 [info] Review> Validate state in progress
+2023-06-10 13:41:38.707 [info] Review> Validating state...
+2023-06-10 13:41:40.417 [info] Found GitHub remote for folder /workspaces/124855513
+2023-06-10 13:41:40.537 [info] Repo state for file:///workspaces/124855513 changed.
+2023-06-10 13:41:40.537 [info] Repo file:///workspaces/124855513 has already been setup.
+2023-06-10 13:41:41.316 [info] Review> no matching pull request metadata found for current branch main
+2023-06-10 13:41:42.066 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-10 13:45:38.594 [info] Review> Validate state in progress
+2023-06-10 13:45:38.594 [info] Review> Validating state...
+2023-06-10 13:45:38.958 [info] Found GitHub remote for folder /workspaces/124855513
+2023-06-10 13:45:39.092 [info] Review> no matching pull request metadata found for current branch main
+2023-06-10 13:45:39.413 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-10 13:45:40.052 [info] Review> Queuing additional validate state
+2023-06-10 13:45:40.312 [info] Review> Validating state...
+2023-06-10 13:45:40.513 [info] Found GitHub remote for folder /workspaces/124855513
+2023-06-10 13:45:40.618 [info] Review> no matching pull request metadata found for current branch main
+2023-06-10 13:45:40.915 [info] Review> No matching pull request metadata found on GitHub for current branch main

@@ -893,3 +893,669 @@
 [Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #31 SessionRequestMessage (requestType=ping-check-connection)
 [Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #36 SessionRequestFailureMessage
 [Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #32 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #38 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #33 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #39 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:12.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #34 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #40 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:43.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #35 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #42 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:16.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #36 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #43 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #37 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #44 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:10.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #38 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #46 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:5abd:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:5abd:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #39 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #47 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #40 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #48 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #41 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #50 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:10.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #42 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #51 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #43 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #52 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #44 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #54 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #45 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #55 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #46 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #56 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:10.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #47 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #58 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #48 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #59 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #49 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #60 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:5abd:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:5abd:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #50 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #62 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #51 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #63 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:11.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #52 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #64 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:11.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #53 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #66 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:12.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #54 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #67 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:14.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #55 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #68 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #56 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #70 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #57 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #71 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:11.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #58 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #72 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:13.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #59 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #74 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] > serverSharing.sharingChanged: 
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] > serverSharing.sharingSucceeded: 
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] > serverSharing.sharingChanged: 
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] > serverSharing.sharingSucceeded: 
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] > serverSharing.sharingStopped: 
+[Client:extension:5abd:resolver:resolve:1:connection:C17A79AF14AF40425949FFEE1E014C83B66E_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b3e4e68a0bc097f0ae7907b217c1119af9e03435:vscode V] serverSharingService onSharingStopped:> object #0: {
+  "sourcePort": 1337,
+  "destinationPort": 0,
+  "sessionName": "127.0.0.1",
+  "streamName": "server_sharing",
+  "streamCondition": "1337",
+  "browseUrl": "",
+  "privacy": "private",
+  "isTCPServerConnectionEstablished": false,
+  "hasTLSHandshakePassed": false
+}
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] > serverSharing.sharingSucceeded: 
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] > serverSharing.sharingStopped: 
+[Client:extension:5abd:resolver:resolve:1:connection:C17A79AF14AF40425949FFEE1E014C83B66E_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b3e4e68a0bc097f0ae7907b217c1119af9e03435:vscode V] serverSharingService onSharingStopped:> object #0: {
+  "sourcePort": 35061,
+  "destinationPort": 0,
+  "sessionName": "127.0.0.1",
+  "streamName": "server_sharing",
+  "streamCondition": "35061",
+  "browseUrl": "",
+  "privacy": "private",
+  "isTCPServerConnectionEstablished": false,
+  "hasTLSHandshakePassed": false
+}
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] > serverSharing.sharingSucceeded: 
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #60 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #83 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #61 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #84 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #62 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #85 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:10.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #63 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #87 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #64 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #88 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:5abd:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:5abd:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #65 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #89 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #66 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #91 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #67 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #92 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #68 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #93 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #69 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #95 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #70 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #96 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #71 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #97 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:11.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #72 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #99 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #73 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #100 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #74 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #101 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:5abd:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:5abd:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #75 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #103 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #76 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #104 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #77 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #105 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #78 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #107 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #79 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #108 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #80 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #109 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #81 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #111 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #82 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #112 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #83 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #113 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #84 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #115 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:12.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #85 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #116 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #86 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #117 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #87 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #119 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #88 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #120 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #89 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #121 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #90 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #123 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #91 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #124 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #92 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #125 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #93 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #127 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #94 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #128 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #95 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #129 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #96 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #131 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:21.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #97 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #132 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #98 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #133 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #99 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #135 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #100 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #136 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:12.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #101 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #137 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:10.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #102 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #139 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:14.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #103 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #140 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:15.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #104 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #141 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #105 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #143 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #106 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #144 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #107 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #145 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #108 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #147 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #109 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #148 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #110 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #149 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #111 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #151 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #112 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #152 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #113 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #153 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #114 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #155 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #115 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #156 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #116 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #157 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #117 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #159 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #118 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #160 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #119 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #161 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #120 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #163 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #121 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #164 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #122 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #165 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #123 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #167 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:6.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #124 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #168 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #125 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #169 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:10.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #126 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #171 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #127 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #172 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #128 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #173 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:10.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #129 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #175 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #130 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #176 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #131 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #177 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #132 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #179 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:9.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #133 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #180 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #134 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #181 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #135 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #183 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #136 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #184 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:7.0
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Sending #137 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] Receiving #185 SessionRequestFailureMessage
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:8.0
+[Client:extension:5abd:resolver I] Received event: SecretsUpdated
+[Client:extension:5abd:resolver I] Unknown event type: SecretsUpdated
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] > IVSCodeServerHostService.secretsUpdated: 
+[Client:extension:5abd:resolver:resolve:1:background-tasks I] asking the user apply changed secrets to the session
+[Client:extension:5abd:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:5abd:resolver V] disposing reason: 'vscode disposed the resolver', disposing 4 objects
+[Client:extension:5abd:resolver:resolve:1:connection:C17A79AF14AF40425949FFEE1E014C83B66E_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b3e4e68a0bc097f0ae7907b217c1119af9e03435:vscode I] stopping remote port "42307"
+[Client:extension:5abd:resolver:resolve:1:connection:C17A79AF14AF40425949FFEE1E014C83B66E_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b3e4e68a0bc097f0ae7907b217c1119af9e03435:vscode I] connection status changed: connected -> disconnected, error:> object #0: Disposing the connection.
+  at x.dispose (/home/ubuntu/.vscode-remote/extensions/workspace/connection-hub/dist/src/connection/Connection.js:120:57)
+  at x.dispose (/home/ubuntu/.vscode-remote/extensions/workspace/connection-hub/dist/src/connection/VSCodeConnection.js:456:22)
+  at Zc.disposeObject (/home/ubuntu/.vscode-remote/extensions/utils/dist/src/components/DisposableClass.js:30:28)
+  at /home/ubuntu/.vscode-remote/extensions/utils/dist/src/components/DisposableClass.js:106:29
+  at Array.forEach (<anonymous>)
+  at Zc.dispose (/home/ubuntu/.vscode-remote/extensions/utils/dist/src/components/DisposableClass.js:98:30)
+  at Object.dispose (/home/ubuntu/.vscode-remote/extensions/github.codespaces-1.14.7/src/abstractions/node/resolver.ts:48:22)
+  at P (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:10:12080)
+  at v.Y (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:113:11173)
+  at /vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:113:9157
+  at Array.map (<anonymous>)
+  at v.R (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:113:9144)
+  at v.terminate (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:113:9415)
+  at d.terminate (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:117:1544)
+  at g (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:127:34439)
+  at /vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:127:32349
+  at v.invoke (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+  at h.deliver (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+  at i.fire (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+  at g.fire (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+  at u.E (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+  at /vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:72:16887
+  at v.invoke (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+  at h.deliver (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+  at i.fire (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+  at d.acceptChunk (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+  at /vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+  at Socket.n (/vscode/bin/linux-x64/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:127:13609)
+  at Socket.emit (node:events:513:28)
+  at addChunk (node:internal/streams/readable:315:12)
+  at readableAddChunk (node:internal/streams/readable:289:9)
+  at Socket.Readable.push (node:internal/streams/readable:228:10)
+  at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+[Client:extension:5abd:resolver:resolve:1:connection:C17A79AF14AF40425949FFEE1E014C83B66E_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b3e4e68a0bc097f0ae7907b217c1119af9e03435:vscode I] firing change event: > object #0: {
+  "status": "disconnected",
+  "previousStatus": "connected"
+}
+[Client:extension:5abd:vscode:onConnectionChanged:C17A79AF14AF40425949FFEE1E014C83B66E_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b3e4e68a0bc097f0ae7907b217c1119af9e03435 I] connected -> disconnected
+[Client:extension:5abd:vscode:onConnectionChanged:C17A79AF14AF40425949FFEE1E014C83B66E_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b3e4e68a0bc097f0ae7907b217c1119af9e03435 I] disposing the connection
+[Client:extension:5abd:vscode I] disposing C17A79AF14AF40425949FFEE1E014C83B66E_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b3e4e68a0bc097f0ae7907b217c1119af9e03435 connection
+[Client:extension:5abd:vscode:connection-record V] disposing reason: 'connection record disposed by ConnectionHub', disposing 2 objects
+[Client:extension:5abd:resolver:resolve:1:connection:C17A79AF14AF40425949FFEE1E014C83B66E_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b3e4e68a0bc097f0ae7907b217c1119af9e03435:vscode I] stopping remote port "42307"
+[Client:extension:5abd:resolver:resolve:1:connection:C17A79AF14AF40425949FFEE1E014C83B66E_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b3e4e68a0bc097f0ae7907b217c1119af9e03435:vscode V] disposing reason: 'connection record disposed by ConnectionHub $1', disposing 15 objects
+[Client:extension:5abd:liveshare-joint:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare-joint:liveshare:delayed-disposable V] Disposing reason:connection record disposed by ConnectionHub $1 $3
+[Client:extension:5abd:resolver:resolve:1:background-tasks:post-attach-command-manager V] disposing reason: 'connection record disposed by ConnectionHub $1 $7', disposing 1 objects
+[Client:extension:5abd:resolver:resolve:1:background-tasks:post-attach-command-manager:delayed-disposable V] Disposing reason:undefined
+[Client:extension:5abd:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] disposing reason: 'disposed with connection', disposing 23 objects
+[ResourceUsage I] Connection disposed, stopping monitor
+[ResourceUsage I] Stopping polling
+[Performance I] Connection disposed, stopping monitor
+[Performance I] Stopping polling
+[Client:extension:5abd:resolver:resolve:1:connection:C17A79AF14AF40425949FFEE1E014C83B66E_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b3e4e68a0bc097f0ae7907b217c1119af9e03435:vscode:delayed-disposable V] Disposing reason:undefined
+[Client:extension:5abd:resolver:resolve:1:connection:C17A79AF14AF40425949FFEE1E014C83B66E_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b3e4e68a0bc097f0ae7907b217c1119af9e03435:vscode:delayed-disposable V] Disposing reason:undefined
+[Client:extension:5abd:resolver:resolve:1:connection:C17A79AF14AF40425949FFEE1E014C83B66E_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b3e4e68a0bc097f0ae7907b217c1119af9e03435:vscode:delayed-disposable V] Disposing reason:undefined
+[Client:extension:5abd:resolver:resolve:1:connection:C17A79AF14AF40425949FFEE1E014C83B66E_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b3e4e68a0bc097f0ae7907b217c1119af9e03435:vscode:delayed-disposable V] Disposing reason:undefined
+[Client:extension:5abd:vscode:connection-record:delayed-disposable V] Disposing reason:undefined
+[Client:extension:5abd:vscode:onConnectionChanged:C17A79AF14AF40425949FFEE1E014C83B66E_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b3e4e68a0bc097f0ae7907b217c1119af9e03435 I] not reconnecting
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] < serverSharing.stopSharing()
+[Client:extension:5abd:liveshare:connection:C17A79AF14AF40425949FFEE1E014C83B66E:liveshare:WorkspaceClient V] < serverSharing.stopSharing()
+[Client:extension:5abd:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:5abd:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
