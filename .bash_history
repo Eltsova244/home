@@ -407,3 +407,9 @@ cd home
 pip install -r requirements.txt
 gunicorn app:app
 clear
+git init
+git status
+git add .
+git commit -m "greet"
+git remote add origin git@github.com:Eltsova244/hello2.git
+git push origin main
