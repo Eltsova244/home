@@ -20,3 +20,4 @@
 2023-06-10 13:49:33.980 [info] > /bin/python3 -I ./.vscode-remote/extensions/ms-python.python-2023.10.0/pythonFiles/get_output_via_markers.py ./.vscode-remote/extensions/ms-python.python-2023.10.0/pythonFiles/interpreterInfo.py
 2023-06-10 13:49:33.994 [info] > /usr/bin/python3 -I ./.vscode-remote/extensions/ms-python.python-2023.10.0/pythonFiles/get_output_via_markers.py ./.vscode-remote/extensions/ms-python.python-2023.10.0/pythonFiles/interpreterInfo.py
 2023-06-10 13:49:34.195 [info] > /usr/local/bin/python -I ./.vscode-remote/extensions/ms-python.python-2023.10.0/pythonFiles/get_output_via_markers.py ./.vscode-remote/extensions/ms-python.python-2023.10.0/pythonFiles/interpreterInfo.py
+2023-06-10 14:01:26.143 [info] Running installed packages checker:  python /home/ubuntu/.vscode-remote/extensions/ms-python.python-2023.10.0/pythonFiles/installed_check.py /home/ubuntu/home/requirements.txt
