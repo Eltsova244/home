@@ -47,3 +47,6 @@ Once installed please reload VS Code.
 2023-06-10 13:49:27.138 [warning] Using default string since no string found in i18n bundle that has the key: type to filter
 2023-06-10 13:49:27.138 [warning] Using default string since no string found in i18n bundle that has the key: Failed to install the Python Extension.
 2023-06-10 13:49:27.706 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2023-06-10 13:50:58.054 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-06-10 13:51:24.623 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-06-10 13:51:24.627 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
