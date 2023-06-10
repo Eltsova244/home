@@ -7,3 +7,11 @@
 2023-06-10 13:49:28.028 [info] [Warn  - 1:49:28 PM] (5686) stubPath /home/ubuntu/typings is not a valid directory.
 2023-06-10 13:49:28.119 [info] [Info  - 1:49:28 PM] (5686) Assuming Python version 3.11
 2023-06-10 13:49:28.309 [info] [Info  - 1:49:28 PM] (5686) Found 3 source files
+2023-06-10 13:51:10.833 [info] [Info  - 1:51:10 PM] (5686) Indexer background runner(2) root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.6.10/dist (index)
+2023-06-10 13:51:10.833 [info] [Info  - 1:51:10 PM] (5686) Indexing(2) started
+2023-06-10 13:51:12.123 [info] [Info  - 1:51:12 PM] (5686) scanned(2) 278 files over 1 exec env
+2023-06-10 13:51:12.572 [info] [Info  - 1:51:12 PM] (5686) [BG(1)] Long operation: getSemanticTokens full at /home/ubuntu/home/app.py (2893ms)
+2023-06-10 13:51:19.951 [info] [Info  - 1:51:19 PM] (5686) [IDX(2)] Long operation: index execution environment /home/ubuntu (7466ms)
+2023-06-10 13:51:19.952 [info] [Info  - 1:51:19 PM] (5686) [IDX(2)] Long operation: index packages /home/ubuntu (7516ms)
+2023-06-10 13:51:19.952 [info] [Info  - 1:51:19 PM] (5686) indexed(2) 211 files over 1 exec env
+2023-06-10 13:51:19.976 [info] [Info  - 1:51:19 PM] (5686) Indexing finished(2).
