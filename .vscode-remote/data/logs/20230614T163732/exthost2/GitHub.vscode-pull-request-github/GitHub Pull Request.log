@@ -318,3 +318,10 @@
 2023-06-14 17:23:58.658 [info] Review> No matching pull request metadata found on GitHub for current branch main
 2023-06-14 17:24:30.739 [info] Review> Queuing additional validate state
 2023-06-14 17:25:30.818 [info] Review> Queuing additional validate state
+2023-06-14 17:26:30.800 [info] Review> Validate state in progress
+2023-06-14 17:26:30.800 [info] Review> Validating state...
+2023-06-14 17:26:58.286 [info] Found GitHub remote for folder /home/ubuntu
+2023-06-14 17:26:58.287 [info] Review> Validating state...
+2023-06-14 17:26:58.695 [info] Review> No matching pull request metadata found locally for current branch main
+2023-06-14 17:26:58.695 [info] Review> no matching pull request metadata found for current branch main
+2023-06-14 17:26:58.696 [info] Review> No matching pull request metadata found on GitHub for current branch main
