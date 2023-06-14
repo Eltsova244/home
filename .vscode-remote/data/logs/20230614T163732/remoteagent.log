@@ -142,3 +142,7 @@
 2023-06-14 16:37:58.761 [info] [127.0.0.1][4a62ec19][ExtensionHostConnection] <1336> Launched Extension Host Process.
 2023-06-14 16:38:36.550 [info] [127.0.0.1][724f2fac][ManagementConnection] The client has reconnected.
 2023-06-14 16:38:36.555 [info] [127.0.0.1][4a62ec19][ExtensionHostConnection] The client has reconnected.
+2023-06-14 16:39:13.849 [info] [127.0.0.1][724f2fac][ManagementConnection] The client has reconnected.
+2023-06-14 16:39:13.859 [info] [127.0.0.1][4a62ec19][ExtensionHostConnection] The client has reconnected.
+2023-06-14 16:39:23.575 [info] [127.0.0.1][724f2fac][ManagementConnection] The client has reconnected.
+2023-06-14 16:39:23.586 [info] [127.0.0.1][4a62ec19][ExtensionHostConnection] The client has reconnected.
