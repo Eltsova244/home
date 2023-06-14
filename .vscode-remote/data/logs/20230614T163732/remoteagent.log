@@ -146,3 +146,6 @@
 2023-06-14 16:39:13.859 [info] [127.0.0.1][4a62ec19][ExtensionHostConnection] The client has reconnected.
 2023-06-14 16:39:23.575 [info] [127.0.0.1][724f2fac][ManagementConnection] The client has reconnected.
 2023-06-14 16:39:23.586 [info] [127.0.0.1][4a62ec19][ExtensionHostConnection] The client has reconnected.
+2023-06-14 16:41:59.428 [error] Error: read ECONNRESET
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-06-14 16:42:53.981 [info] New EH opened, aborting shutdown
