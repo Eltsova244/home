@@ -1082,3 +1082,33 @@ error: failed to push some refs to 'github.com:Eltsova244/home.git'
 2023-06-14 17:04:15.836 [info] > git config --get commit.template [14ms]
 2023-06-14 17:04:15.837 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
 2023-06-14 17:04:16.003 [info] > git status -z -uall --find-renames=50% [153ms]
+2023-06-14 17:04:46.093 [info] > git add -A -- /home/ubuntu/.vscode-remote/data/logs/20230614T163732/exthost2/vscode.git/Git.log [67ms]
+2023-06-14 17:04:46.116 [info] > git config --get commit.template [2ms]
+2023-06-14 17:04:46.130 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-06-14 17:04:46.312 [info] > git status -z -uall --find-renames=50% [165ms]
+2023-06-14 17:04:46.451 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - --allow-empty-message [118ms]
+2023-06-14 17:04:46.470 [info] > git config --get commit.template [1ms]
+2023-06-14 17:04:46.503 [info] > git config --get commit.template [16ms]
+2023-06-14 17:04:46.505 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-06-14 17:04:46.663 [info] > git status -z -uall --find-renames=50% [144ms]
+2023-06-14 17:04:58.398 [info] > git config --local branch.main.github-pr-owner-number [158ms]
+2023-06-14 17:04:58.416 [info] > git config --get commit.template [18ms]
+2023-06-14 17:04:58.416 [info] > git config --get commit.template [43ms]
+2023-06-14 17:04:58.418 [info] > git config --get commit.template [5ms]
+2023-06-14 17:04:58.470 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [39ms]
+2023-06-14 17:04:58.497 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [43ms]
+2023-06-14 17:04:58.513 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [70ms]
+2023-06-14 17:04:58.742 [info] > git status -z -uall --find-renames=50% [229ms]
+2023-06-14 17:04:59.897 [info] > git push --force origin main [1340ms]
+2023-06-14 17:04:59.897 [info] To github.com:Eltsova244/home.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at aabf20a7ecc6d89dd78eb3602c4b278d47cb633a but expected 990aa4753df595bb8fe993a44d6bc62453cb10bd)
+error: failed to push some refs to 'github.com:Eltsova244/home.git'
+2023-06-14 17:04:59.925 [info] > git config --get commit.template [1ms]
+2023-06-14 17:04:59.954 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2023-06-14 17:05:00.026 [info] > git push --force origin main [1536ms]
+2023-06-14 17:05:00.026 [info] To github.com:Eltsova244/home.git
+   990aa47..aabf20a  main -> main
+2023-06-14 17:05:00.065 [info] > git status -z -uall --find-renames=50% [85ms] (cancelled)
+2023-06-14 17:05:00.088 [info] > git config --get commit.template [23ms]
+2023-06-14 17:05:00.089 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-06-14 17:05:00.253 [info] > git status -z -uall --find-renames=50% [149ms]
