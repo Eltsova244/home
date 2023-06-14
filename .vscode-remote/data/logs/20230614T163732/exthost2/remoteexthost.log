@@ -109,3 +109,4 @@ Once installed please reload VS Code.
     at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
 2023-06-14 16:40:08.374 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 2023-06-14 16:40:08.375 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-06-14 16:48:08.459 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
