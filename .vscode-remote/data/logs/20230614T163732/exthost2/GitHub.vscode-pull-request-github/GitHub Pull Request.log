@@ -172,3 +172,24 @@
 2023-06-14 17:01:58.675 [info] Review> No matching pull request metadata found locally for current branch main
 2023-06-14 17:01:58.675 [info] Review> no matching pull request metadata found for current branch main
 2023-06-14 17:01:58.675 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-14 17:02:30.937 [info] Review> Queuing additional validate state
+2023-06-14 17:02:42.733 [info] Review> Validating state...
+2023-06-14 17:02:42.956 [info] Found GitHub remote for folder /home/ubuntu
+2023-06-14 17:02:42.959 [info] Review> Validating state...
+2023-06-14 17:02:43.210 [info] Found GitHub remote for folder /home/ubuntu
+2023-06-14 17:02:43.284 [info] Review> No matching pull request metadata found locally for current branch main
+2023-06-14 17:02:43.284 [info] Review> no matching pull request metadata found for current branch main
+2023-06-14 17:02:43.284 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-14 17:02:43.543 [info] Review> No matching pull request metadata found locally for current branch main
+2023-06-14 17:02:43.543 [info] Review> no matching pull request metadata found for current branch main
+2023-06-14 17:02:43.543 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-14 17:02:43.774 [info] Review> Validating state...
+2023-06-14 17:02:43.862 [info] Found GitHub remote for folder /home/ubuntu
+2023-06-14 17:02:43.979 [info] Review> Validating state...
+2023-06-14 17:02:44.055 [info] Review> No matching pull request metadata found locally for current branch main
+2023-06-14 17:02:44.055 [info] Review> no matching pull request metadata found for current branch main
+2023-06-14 17:02:44.055 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-14 17:02:44.072 [info] Found GitHub remote for folder /home/ubuntu
+2023-06-14 17:02:44.327 [info] Review> No matching pull request metadata found locally for current branch main
+2023-06-14 17:02:44.327 [info] Review> no matching pull request metadata found for current branch main
+2023-06-14 17:02:44.327 [info] Review> No matching pull request metadata found on GitHub for current branch main
