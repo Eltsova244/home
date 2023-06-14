@@ -413,3 +413,4 @@ git add .
 git commit -m "greet"
 git remote add origin git@github.com:Eltsova244/hello2.git
 git push origin main
+flask run

@@ -1,0 +1,49 @@
+2023-06-14 16:38:01.578 [info] Extension host with pid 1336 started
+2023-06-14 16:38:01.806 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/-1248e7e5/vscode.lock': Lock acquired.
+2023-06-14 16:38:02.428 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onCommand:github.codespaces.activate'
+2023-06-14 16:38:02.429 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2023-06-14 16:38:02.430 [info] ExtensionService#_doActivateExtension vsls-contrib.gitdoc, startup: false, activationEvent: '*'
+2023-06-14 16:38:02.430 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-06-14 16:38:02.822 [warning] Using default string since no string found in i18n bundle that has the key: Keep Defaults
+2023-06-14 16:38:02.822 [warning] Using default string since no string found in i18n bundle that has the key: Configure Options
+2023-06-14 16:38:02.822 [warning] Using default string since no string found in i18n bundle that has the key: Finish
+2023-06-14 16:38:02.823 [warning] Using default string since no string found in i18n bundle that has the key: Learn More
+2023-06-14 16:38:02.823 [warning] Using default string since no string found in i18n bundle that has the key: Documentation on predefined container definitions
+2023-06-14 16:38:03.435 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:app.py'
+2023-06-14 16:38:05.016 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-14 16:38:05.200 [warning] Using default string since no string found in i18n bundle that has the key: You need to select a Python interpreter before you start debugging.
+
+Tip: click on "Select Interpreter" in the status bar.
+2023-06-14 16:38:05.201 [warning] Using default string since no string found in i18n bundle that has the key: The Python extension now includes Pylance to improve completions, code navigation, overall performance and much more! You can learn more about the update and learn how to change your language server [here](https://aka.ms/new-python-bundle).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2023-06-14 16:38:05.201 [warning] Using default string since no string found in i18n bundle that has the key: The Microsoft Python Language Server has reached end of life. Your language server has been set to the default for Python in VS Code, Pylance.
+
+If you'd like to change your language server, you can learn about how to do so [here](https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2021-release/#configuring-your-language-server).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2023-06-14 16:38:05.471 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2023-06-14 16:38:05.471 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2023-06-14 16:38:05.756 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-06-14 16:38:07.314 [info] ExtensionService#_doActivateExtension ms-python.isort, startup: true, activationEvent: 'workspaceContains:*.py'
+2023-06-14 16:38:07.640 [info] Eager extensions activated
+2023-06-14 16:38:07.641 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-14 16:38:07.641 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-14 16:38:07.641 [info] ExtensionService#_doActivateExtension CS50.cs50, startup: false, activationEvent: 'onStartupFinished'
+2023-06-14 16:38:07.642 [info] ExtensionService#_doActivateExtension CS50.extension-uninstaller, startup: false, activationEvent: 'onStartupFinished'
+2023-06-14 16:38:07.642 [info] ExtensionService#_doActivateExtension CS50.lab50, startup: false, activationEvent: 'onStartupFinished'
+2023-06-14 16:38:07.642 [info] ExtensionService#_doActivateExtension CS50.markdown50, startup: false, activationEvent: 'onStartupFinished'
+2023-06-14 16:38:07.642 [info] ExtensionService#_doActivateExtension CS50.phpliteadmin, startup: false, activationEvent: 'onStartupFinished'
+2023-06-14 16:38:07.642 [info] ExtensionService#_doActivateExtension CS50.vscode-presentation-mode, startup: false, activationEvent: 'onStartupFinished'
+2023-06-14 16:38:07.643 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2023-06-14 16:38:08.772 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'api', root cause: GitHub.codespaces
+2023-06-14 16:38:09.236 [warning] Using default string since no string found in i18n bundle that has the key: Python is not installed. 
+Please download and install Python in order to execute cells in this notebook. 
+Once installed please reload VS Code.
+2023-06-14 16:38:09.236 [warning] Using default string since no string found in i18n bundle that has the key: Please check the 'Jupyter' [output](command:jupyter.viewOutput) panel for further details./Do not translate the text "command:jupyter.viewOutput", that is a command Id that will be used by VS Code to open the output panel
+2023-06-14 16:38:09.237 [warning] Using default string since no string found in i18n bundle that has the key: Jupyter Server Console
+2023-06-14 16:38:09.237 [warning] Using default string since no string found in i18n bundle that has the key: Operation not supported in web version of Jupyter Extension.
+2023-06-14 16:38:09.237 [warning] Using default string since no string found in i18n bundle that has the key: type to filter
+2023-06-14 16:38:09.237 [warning] Using default string since no string found in i18n bundle that has the key: Failed to install the Python Extension.
+2023-06-14 16:38:10.347 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2023-06-14 16:38:10.444 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter

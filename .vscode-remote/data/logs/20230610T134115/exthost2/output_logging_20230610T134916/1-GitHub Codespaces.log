@@ -1853,3 +1853,115 @@
 [Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] Receiving #278 SessionRequestFailureMessage
 [Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:5.0
 [Performance I] Executed get-performance-data using gRPC
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] Sending #210 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] Receiving #280 SessionRequestFailureMessage
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:5.0
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] Sending #211 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] Receiving #281 SessionRequestFailureMessage
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:6.0
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] Sending #212 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] Receiving #282 SessionRequestFailureMessage
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:5.0
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] Sending #213 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] Receiving #284 SessionRequestFailureMessage
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:6.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] Sending #214 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] Receiving #285 SessionRequestFailureMessage
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:4.0
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] Sending #215 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] Receiving #286 SessionRequestFailureMessage
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:5.0
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] Sending #216 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] Receiving #288 SessionRequestFailureMessage
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:5.0
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] Sending #217 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] Receiving #289 SessionRequestFailureMessage
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:5.0
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] Sending #218 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] Receiving #290 SessionRequestFailureMessage
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:6.0
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:87d2:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:87d2:resolver V] disposing reason: 'vscode disposed the resolver', disposing 4 objects
+[Client:extension:87d2:resolver:resolve:1:connection:8A24480265080010EC9961D085EA95A5CEC0_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b380da4ef1ee00e224a15c1d4d9793e27c2b6302:vscode I] stopping remote port "42389"
+[Client:extension:87d2:resolver:resolve:1:connection:8A24480265080010EC9961D085EA95A5CEC0_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b380da4ef1ee00e224a15c1d4d9793e27c2b6302:vscode I] connection status changed: connected -> disconnected, error:> object #0: Disposing the connection.
+  at x.dispose (/home/ubuntu/.vscode-remote/extensions/workspace/connection-hub/dist/src/connection/Connection.js:120:57)
+  at x.dispose (/home/ubuntu/.vscode-remote/extensions/workspace/connection-hub/dist/src/connection/VSCodeConnection.js:456:22)
+  at Zc.disposeObject (/home/ubuntu/.vscode-remote/extensions/utils/dist/src/components/DisposableClass.js:30:28)
+  at /home/ubuntu/.vscode-remote/extensions/utils/dist/src/components/DisposableClass.js:106:29
+  at Array.forEach (<anonymous>)
+  at Zc.dispose (/home/ubuntu/.vscode-remote/extensions/utils/dist/src/components/DisposableClass.js:98:30)
+  at Object.dispose (/home/ubuntu/.vscode-remote/extensions/github.codespaces-1.14.7/src/abstractions/node/resolver.ts:48:22)
+  at I (/vscode/bin/linux-x64/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:10:12083)
+  at n.Z (/vscode/bin/linux-x64/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:114:11285)
+  at /vscode/bin/linux-x64/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:114:9187
+  at Array.map (<anonymous>)
+  at n.S (/vscode/bin/linux-x64/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:114:9175)
+  at n.terminate (/vscode/bin/linux-x64/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:114:9445)
+  at h.terminate (/vscode/bin/linux-x64/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:118:1544)
+  at p (/vscode/bin/linux-x64/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:128:34497)
+  at /vscode/bin/linux-x64/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:128:32407
+  at b.invoke (/vscode/bin/linux-x64/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+  at deliver (/vscode/bin/linux-x64/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+  at n.fire (/vscode/bin/linux-x64/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+  at p.fire (/vscode/bin/linux-x64/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:73:14783)
+  at D.E (/vscode/bin/linux-x64/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:73:18830)
+  at /vscode/bin/linux-x64/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:73:16818
+  at b.invoke (/vscode/bin/linux-x64/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+  at deliver (/vscode/bin/linux-x64/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+  at n.fire (/vscode/bin/linux-x64/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+  at h.acceptChunk (/vscode/bin/linux-x64/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:73:12514)
+  at /vscode/bin/linux-x64/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:73:11801
+  at Socket.i (/vscode/bin/linux-x64/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/out/vs/workbench/api/node/extensionHostProcess.js:128:13607)
+  at Socket.emit (node:events:513:28)
+  at addChunk (node:internal/streams/readable:315:12)
+  at readableAddChunk (node:internal/streams/readable:289:9)
+  at Socket.Readable.push (node:internal/streams/readable:228:10)
+  at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+[Client:extension:87d2:resolver:resolve:1:connection:8A24480265080010EC9961D085EA95A5CEC0_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b380da4ef1ee00e224a15c1d4d9793e27c2b6302:vscode I] firing change event: > object #0: {
+  "status": "disconnected",
+  "previousStatus": "connected"
+}
+[Client:extension:87d2:vscode:onConnectionChanged:8A24480265080010EC9961D085EA95A5CEC0_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b380da4ef1ee00e224a15c1d4d9793e27c2b6302 I] connected -> disconnected
+[Client:extension:87d2:vscode:onConnectionChanged:8A24480265080010EC9961D085EA95A5CEC0_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b380da4ef1ee00e224a15c1d4d9793e27c2b6302 I] disposing the connection
+[Client:extension:87d2:vscode I] disposing 8A24480265080010EC9961D085EA95A5CEC0_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b380da4ef1ee00e224a15c1d4d9793e27c2b6302 connection
+[Client:extension:87d2:vscode:connection-record V] disposing reason: 'connection record disposed by ConnectionHub', disposing 2 objects
+[Client:extension:87d2:resolver:resolve:1:connection:8A24480265080010EC9961D085EA95A5CEC0_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b380da4ef1ee00e224a15c1d4d9793e27c2b6302:vscode I] stopping remote port "42389"
+[Client:extension:87d2:resolver:resolve:1:connection:8A24480265080010EC9961D085EA95A5CEC0_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b380da4ef1ee00e224a15c1d4d9793e27c2b6302:vscode V] disposing reason: 'connection record disposed by ConnectionHub $1', disposing 15 objects
+[Client:extension:87d2:liveshare-joint:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare-joint:liveshare:delayed-disposable V] Disposing reason:connection record disposed by ConnectionHub $1 $3
+[Client:extension:87d2:resolver:resolve:1:background-tasks:post-attach-command-manager V] disposing reason: 'connection record disposed by ConnectionHub $1 $7', disposing 1 objects
+[Client:extension:87d2:resolver:resolve:1:background-tasks:post-attach-command-manager:delayed-disposable V] Disposing reason:undefined
+[Client:extension:87d2:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] disposing reason: 'disposed with connection', disposing 23 objects
+[ResourceUsage I] Connection disposed, stopping monitor
+[ResourceUsage I] Stopping polling
+[Performance I] Connection disposed, stopping monitor
+[Performance I] Stopping polling
+[Client:extension:87d2:resolver:resolve:1:connection:8A24480265080010EC9961D085EA95A5CEC0_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b380da4ef1ee00e224a15c1d4d9793e27c2b6302:vscode:delayed-disposable V] Disposing reason:undefined
+[Client:extension:87d2:resolver:resolve:1:connection:8A24480265080010EC9961D085EA95A5CEC0_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b380da4ef1ee00e224a15c1d4d9793e27c2b6302:vscode:delayed-disposable V] Disposing reason:undefined
+[Client:extension:87d2:resolver:resolve:1:connection:8A24480265080010EC9961D085EA95A5CEC0_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b380da4ef1ee00e224a15c1d4d9793e27c2b6302:vscode:delayed-disposable V] Disposing reason:undefined
+[Client:extension:87d2:resolver:resolve:1:connection:8A24480265080010EC9961D085EA95A5CEC0_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b380da4ef1ee00e224a15c1d4d9793e27c2b6302:vscode:delayed-disposable V] Disposing reason:undefined
+[Client:extension:87d2:vscode:connection-record:delayed-disposable V] Disposing reason:undefined
+[Client:extension:87d2:vscode:onConnectionChanged:8A24480265080010EC9961D085EA95A5CEC0_7ce0bac2-17dc-4e40-93ed-b927e5281b5e_stable_b380da4ef1ee00e224a15c1d4d9793e27c2b6302 I] not reconnecting
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] < serverSharing.stopSharing()
+[Client:extension:87d2:liveshare:connection:8A24480265080010EC9961D085EA95A5CEC0:liveshare:WorkspaceClient V] < serverSharing.stopSharing()
+[Client:extension:87d2:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:87d2:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true

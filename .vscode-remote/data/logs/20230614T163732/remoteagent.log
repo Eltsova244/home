@@ -1,0 +1,144 @@
+2023-06-14 16:37:33.086 [trace] Remote configuration data at /home/ubuntu/.vscode-remote
+2023-06-14 16:37:33.086 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/ubuntu/.vscode-remote/data/Machine/.connection-token-4cb974a7aed77a74c7813bdccd99ee0d04901215","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/ubuntu/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"extensions-download-dir":"/home/ubuntu/.vscode-remote/extensionsCache","list-extensions":false,"show-versions":false,"force":false,"do-not-sync":false,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/ubuntu/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/4cb974a7aed77a74c7813bdccd99ee0d04901215/extensions","extensions-dir":"/home/ubuntu/.vscode-remote/extensions","logsPath":"/home/ubuntu/.vscode-remote/data/logs/20230614T163732"}
+2023-06-14 16:37:33.086 [info] 
+
+
+
+
+2023-06-14 16:37:33.086 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/data/Machine (excludes: <none>, includes: <all>),/home/ubuntu/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>)
+2023-06-14 16:37:33.153 [trace] ExtensionManagementService#cleanUp
+2023-06-14 16:37:33.187 [info] Extension host agent started.
+2023-06-14 16:37:33.272 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/data/Machine'
+2023-06-14 16:37:33.279 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/data/Machine/settings.json'
+2023-06-14 16:37:33.287 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/extensions (excludes: <none>, includes: <all>)
+2023-06-14 16:37:33.304 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/esbenp.prettier-vscode-9.13.0
+2023-06-14 16:37:33.307 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/dbaeumer.vscode-eslint-2.4.1
+2023-06-14 16:37:33.308 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/ms-azuretools.vscode-docker-1.25.1
+2023-06-14 16:37:33.312 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/extensions'
+2023-06-14 16:37:33.317 [debug] Removing uninstalled extensions: ["ms-toolsai.jupyter-keymap-1.1.0","ms-ceintl.vscode-language-pack-ru-1.78.2023051009","github.vscode-pull-request-github-0.64.0","ms-toolsai.jupyter-2023.4.1011241018-linux-x64","ms-python.python-2023.8.0"]
+2023-06-14 16:37:33.318 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions","external":"file:///home/ubuntu/.vscode-remote/extensions","path":"/home/ubuntu/.vscode-remote/extensions","scheme":"file"}
+2023-06-14 16:37:33.320 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>)
+2023-06-14 16:37:33.332 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions","external":"file:///home/ubuntu/.vscode-remote/extensions","path":"/home/ubuntu/.vscode-remote/extensions","scheme":"file"}
+2023-06-14 16:37:33.432 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/extensions/extensions.json'
+2023-06-14 16:37:33.820 [trace] Scanned user extensions: 28
+2023-06-14 16:37:33.824 [trace] Deleting uninstalled extension from disk github.vscode-pull-request-github /home/ubuntu/.vscode-remote/extensions/github.vscode-pull-request-github-0.64.0
+2023-06-14 16:37:33.824 [trace] Deleting uninstalled extension from disk ms-ceintl.vscode-language-pack-ru /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.78.2023051009
+2023-06-14 16:37:33.824 [trace] Deleting uninstalled extension from disk ms-python.python /home/ubuntu/.vscode-remote/extensions/ms-python.python-2023.8.0
+2023-06-14 16:37:33.824 [trace] Deleting uninstalled extension from disk ms-toolsai.jupyter /home/ubuntu/.vscode-remote/extensions/ms-toolsai.jupyter-2023.4.1011241018-linux-x64
+2023-06-14 16:37:33.825 [trace] Deleting uninstalled extension from disk ms-toolsai.jupyter-keymap /home/ubuntu/.vscode-remote/extensions/ms-toolsai.jupyter-keymap-1.1.0
+2023-06-14 16:37:33.846 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-ceintl.vscode-language-pack-ru-1.78.2023051009
+2023-06-14 16:37:33.846 [trace] [File Watcher (node.js)] [raw] ["rename"] ._4011f6dc-21dc-4b26-8536-40eeb3990901
+2023-06-14 16:37:33.847 [trace] [File Watcher (node.js)] [raw] ["rename"] github.vscode-pull-request-github-0.64.0
+2023-06-14 16:37:33.847 [trace] [File Watcher (node.js)] [raw] ["rename"] ._cb92468d-476f-4834-87cc-7d21324f96e2
+2023-06-14 16:37:33.847 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-python.python-2023.8.0
+2023-06-14 16:37:33.848 [trace] [File Watcher (node.js)] [raw] ["rename"] ._cb3f5c9a-5322-47d6-a12c-3330f56ee5e6
+2023-06-14 16:37:33.848 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-toolsai.jupyter-2023.4.1011241018-linux-x64
+2023-06-14 16:37:33.848 [trace] [File Watcher (node.js)] [raw] ["rename"] ._f3a4f28d-eb2a-4a68-8d66-f7561581782a
+2023-06-14 16:37:33.848 [trace] [File Watcher (node.js)] [raw] ["rename"] ms-toolsai.jupyter-keymap-1.1.0
+2023-06-14 16:37:33.848 [trace] [File Watcher (node.js)] [raw] ["rename"] ._b8c0f6c9-a40f-4520-aa9c-c046e9ce5a65
+2023-06-14 16:37:33.856 [trace] Scanned user extensions: 23
+2023-06-14 16:37:33.919 [info] Deleted from disk ms-toolsai.jupyter-keymap /home/ubuntu/.vscode-remote/extensions/ms-toolsai.jupyter-keymap-1.1.0
+2023-06-14 16:37:33.922 [trace] [File Watcher (node.js)] [raw] ["rename"] ._b8c0f6c9-a40f-4520-aa9c-c046e9ce5a65
+2023-06-14 16:37:33.931 [info] Deleted from disk ms-ceintl.vscode-language-pack-ru /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.78.2023051009
+2023-06-14 16:37:33.948 [trace] [File Watcher (node.js)] [raw] ["rename"] ._4011f6dc-21dc-4b26-8536-40eeb3990901
+2023-06-14 16:37:33.960 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.78.2023051009
+2023-06-14 16:37:33.960 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/github.vscode-pull-request-github-0.64.0
+2023-06-14 16:37:33.960 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/._cb92468d-476f-4834-87cc-7d21324f96e2
+2023-06-14 16:37:33.961 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-python.python-2023.8.0
+2023-06-14 16:37:33.961 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/._cb3f5c9a-5322-47d6-a12c-3330f56ee5e6
+2023-06-14 16:37:33.961 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-toolsai.jupyter-2023.4.1011241018-linux-x64
+2023-06-14 16:37:33.961 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/._f3a4f28d-eb2a-4a68-8d66-f7561581782a
+2023-06-14 16:37:33.961 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-toolsai.jupyter-keymap-1.1.0
+2023-06-14 16:37:33.970 [info] Deleted from disk github.vscode-pull-request-github /home/ubuntu/.vscode-remote/extensions/github.vscode-pull-request-github-0.64.0
+2023-06-14 16:37:33.970 [trace] [File Watcher (node.js)] [raw] ["rename"] ._cb92468d-476f-4834-87cc-7d21324f96e2
+2023-06-14 16:37:33.973 [trace] [File Watcher (node.js)] [raw] ["change"] .obsolete
+2023-06-14 16:37:33.973 [trace] [File Watcher (node.js)] [CHANGED] /home/ubuntu/.vscode-remote/extensions/.obsolete
+2023-06-14 16:37:33.975 [trace] [File Watcher (node.js)] [raw] ["change"] .obsolete
+2023-06-14 16:37:33.975 [trace] [File Watcher (node.js)] [CHANGED] /home/ubuntu/.vscode-remote/extensions/.obsolete
+2023-06-14 16:37:34.042 [trace] [File Watcher (node.js)] >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-python.python-2023.8.0
+2023-06-14 16:37:34.042 [trace] [File Watcher (node.js)] >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-toolsai.jupyter-keymap-1.1.0
+2023-06-14 16:37:34.042 [trace] [File Watcher (node.js)] >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/github.vscode-pull-request-github-0.64.0
+2023-06-14 16:37:34.043 [trace] [File Watcher (node.js)] >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-toolsai.jupyter-2023.4.1011241018-linux-x64
+2023-06-14 16:37:34.043 [trace] [File Watcher (node.js)] >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.78.2023051009
+2023-06-14 16:37:34.043 [trace] [File Watcher (node.js)] >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/._cb92468d-476f-4834-87cc-7d21324f96e2
+2023-06-14 16:37:34.043 [trace] [File Watcher (node.js)] >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/._cb3f5c9a-5322-47d6-a12c-3330f56ee5e6
+2023-06-14 16:37:34.043 [trace] [File Watcher (node.js)] >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/._f3a4f28d-eb2a-4a68-8d66-f7561581782a
+2023-06-14 16:37:34.043 [trace] [File Watcher (node.js)] >> normalized [CHANGED] /home/ubuntu/.vscode-remote/extensions/.obsolete
+2023-06-14 16:37:34.054 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/._b8c0f6c9-a40f-4520-aa9c-c046e9ce5a65
+2023-06-14 16:37:34.080 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/._4011f6dc-21dc-4b26-8536-40eeb3990901
+2023-06-14 16:37:34.118 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/._cb92468d-476f-4834-87cc-7d21324f96e2
+2023-06-14 16:37:34.118 [info] Deleted from disk ms-toolsai.jupyter /home/ubuntu/.vscode-remote/extensions/ms-toolsai.jupyter-2023.4.1011241018-linux-x64
+2023-06-14 16:37:34.128 [trace] [File Watcher (node.js)] [raw] ["rename"] ._f3a4f28d-eb2a-4a68-8d66-f7561581782a
+2023-06-14 16:37:34.128 [trace] [File Watcher (node.js)] >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/._b8c0f6c9-a40f-4520-aa9c-c046e9ce5a65
+2023-06-14 16:37:34.128 [trace] [File Watcher (node.js)] >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/._4011f6dc-21dc-4b26-8536-40eeb3990901
+2023-06-14 16:37:34.128 [trace] [File Watcher (node.js)] >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/._cb92468d-476f-4834-87cc-7d21324f96e2
+2023-06-14 16:37:34.232 [trace] [File Watcher (node.js)] [raw] ["change"] .obsolete
+2023-06-14 16:37:34.232 [trace] [File Watcher (node.js)] [CHANGED] /home/ubuntu/.vscode-remote/extensions/.obsolete
+2023-06-14 16:37:34.239 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/._f3a4f28d-eb2a-4a68-8d66-f7561581782a
+2023-06-14 16:37:34.245 [trace] [File Watcher (node.js)] [raw] ["change"] .obsolete
+2023-06-14 16:37:34.245 [trace] [File Watcher (node.js)] [CHANGED] /home/ubuntu/.vscode-remote/extensions/.obsolete
+2023-06-14 16:37:34.267 [trace] [File Watcher (node.js)] [raw] ["rename"] ._cb3f5c9a-5322-47d6-a12c-3330f56ee5e6
+2023-06-14 16:37:34.269 [info] Deleted from disk ms-python.python /home/ubuntu/.vscode-remote/extensions/ms-python.python-2023.8.0
+2023-06-14 16:37:34.298 [trace] [File Watcher (node.js)] [raw] ["change"] .obsolete
+2023-06-14 16:37:34.298 [trace] [File Watcher (node.js)] [CHANGED] /home/ubuntu/.vscode-remote/extensions/.obsolete
+2023-06-14 16:37:34.299 [trace] [File Watcher (node.js)] [raw] ["change"] .obsolete
+2023-06-14 16:37:34.299 [trace] [File Watcher (node.js)] [CHANGED] /home/ubuntu/.vscode-remote/extensions/.obsolete
+2023-06-14 16:37:34.308 [trace] [File Watcher (node.js)] >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/._f3a4f28d-eb2a-4a68-8d66-f7561581782a
+2023-06-14 16:37:34.308 [trace] [File Watcher (node.js)] >> normalized [CHANGED] /home/ubuntu/.vscode-remote/extensions/.obsolete
+2023-06-14 16:37:34.328 [trace] [File Watcher (node.js)] [raw] ["change"] .obsolete
+2023-06-14 16:37:34.328 [trace] [File Watcher (node.js)] [CHANGED] /home/ubuntu/.vscode-remote/extensions/.obsolete
+2023-06-14 16:37:34.328 [trace] [File Watcher (node.js)] [raw] ["change"] .obsolete
+2023-06-14 16:37:34.329 [trace] [File Watcher (node.js)] [CHANGED] /home/ubuntu/.vscode-remote/extensions/.obsolete
+2023-06-14 16:37:34.350 [trace] [File Watcher (node.js)] [raw] ["rename"] .obsolete
+2023-06-14 16:37:34.350 [trace] ExtensionManagementService#removeGeneratedFolders
+2023-06-14 16:37:34.368 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/._cb3f5c9a-5322-47d6-a12c-3330f56ee5e6
+2023-06-14 16:37:34.404 [trace] [File Watcher (node.js)] >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/._cb3f5c9a-5322-47d6-a12c-3330f56ee5e6
+2023-06-14 16:37:34.404 [trace] [File Watcher (node.js)] >> normalized [CHANGED] /home/ubuntu/.vscode-remote/extensions/.obsolete
+2023-06-14 16:37:34.451 [trace] [File Watcher (node.js)] [DELETED] /home/ubuntu/.vscode-remote/extensions/.obsolete
+2023-06-14 16:37:34.526 [trace] [File Watcher (node.js)] >> normalized [DELETED] /home/ubuntu/.vscode-remote/extensions/.obsolete
+2023-06-14 16:37:34.900 [info] [127.0.0.1][de340297][ManagementConnection] New connection established.
+2023-06-14 16:37:34.901 [trace] [127.0.0.1][b0cb7851][ExtensionHostConnection] - startParams language: ru
+2023-06-14 16:37:34.901 [trace] [127.0.0.1][b0cb7851][ExtensionHostConnection] - startParams env: {}
+2023-06-14 16:37:34.903 [info] [127.0.0.1][b0cb7851][ExtensionHostConnection] New connection established.
+2023-06-14 16:37:35.005 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-06-14 16:37:35.012 [info] [127.0.0.1][b0cb7851][ExtensionHostConnection] <333> Launched Extension Host Process.
+2023-06-14 16:37:35.117 [trace] Started scanning system extensions
+2023-06-14 16:37:35.118 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-06-14 16:37:35.119 [trace] ExtensionManagementService.refreshReportedCache
+2023-06-14 16:37:35.121 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-06-14 16:37:35.121 [trace] Started scanning system extensions
+2023-06-14 16:37:35.123 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-06-14 16:37:35.127 [info] Log level changed to info
+2023-06-14 16:37:43.930 [info] Getting Manifest... github.codespaces
+2023-06-14 16:37:43.931 [info] Getting Manifest... github.vscode-pull-request-github
+2023-06-14 16:37:43.931 [info] Getting Manifest... ms-python.python
+2023-06-14 16:37:43.954 [info] Installing extension: github.vscode-pull-request-github
+2023-06-14 16:37:43.957 [info] Installing extension: ms-python.python
+2023-06-14 16:37:43.958 [info] Installing extension: github.codespaces
+2023-06-14 16:37:49.568 [info] Extension signature is verified: github.vscode-pull-request-github
+2023-06-14 16:37:49.572 [info] Extension signature is verified: github.codespaces
+2023-06-14 16:37:49.861 [info] Extension signature is verified: ms-python.python
+2023-06-14 16:37:50.193 [info] Extracted extension to /home/ubuntu/.vscode-remote/extensions/.dee8f6af-07ff-41b4-9ee0-6facbbe388ac: github.vscode-pull-request-github
+2023-06-14 16:37:50.276 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/github.vscode-pull-request-github-0.66.1
+2023-06-14 16:37:50.339 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-06-14 16:37:50.380 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-06-14 16:37:50.410 [info] Marked extension as uninstalled github.vscode-pull-request-github-0.66.0
+2023-06-14 16:37:50.776 [info] Extracted extension to /home/ubuntu/.vscode-remote/extensions/.3e39ddb1-5298-4db3-8c7d-2c871da7c54d: github.codespaces
+2023-06-14 16:37:50.818 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/github.codespaces-1.14.8
+2023-06-14 16:37:50.829 [info] Extracting extension completed. github.codespaces
+2023-06-14 16:37:50.869 [info] Extension installed successfully: github.codespaces
+2023-06-14 16:37:50.881 [info] Marked extension as uninstalled github.codespaces-1.14.7
+2023-06-14 16:37:52.900 [info] [127.0.0.1][de340297][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-14 16:37:53.980 [info] [127.0.0.1][b0cb7851][ExtensionHostConnection] <333> Extension Host Process exited with code: 0, signal: null.
+2023-06-14 16:37:53.981 [info] Cancelling previous shutdown timeout
+2023-06-14 16:37:53.981 [info] Last EH closed, waiting before shutting down
+2023-06-14 16:37:53.993 [info] Extracted extension to /home/ubuntu/.vscode-remote/extensions/.435a9924-ddec-4505-a2cc-73a37703681f: ms-python.python
+2023-06-14 16:37:54.045 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-python.python-2023.10.1
+2023-06-14 16:37:54.060 [info] Extracting extension completed. ms-python.python
+2023-06-14 16:37:54.113 [info] Extension installed successfully: ms-python.python
+2023-06-14 16:37:54.126 [info] Marked extension as uninstalled ms-python.python-2023.10.0
+2023-06-14 16:37:58.750 [info] [127.0.0.1][4a62ec19][ExtensionHostConnection] New connection established.
+2023-06-14 16:37:58.751 [info] [127.0.0.1][724f2fac][ManagementConnection] New connection established.
+2023-06-14 16:37:58.761 [info] [127.0.0.1][4a62ec19][ExtensionHostConnection] <1336> Launched Extension Host Process.
+2023-06-14 16:38:36.550 [info] [127.0.0.1][724f2fac][ManagementConnection] The client has reconnected.
+2023-06-14 16:38:36.555 [info] [127.0.0.1][4a62ec19][ExtensionHostConnection] The client has reconnected.

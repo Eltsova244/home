@@ -1,0 +1,21 @@
+2023-06-14 16:38:09.017 [warning] /home/ubuntu/.ssh/config: ENOENT: no such file or directory, open '/home/ubuntu/.ssh/config'
+2023-06-14 16:38:11.149 [info] Looking for git repository
+2023-06-14 16:38:11.149 [info] Found 0 repositories during activation
+2023-06-14 16:38:11.149 [info] Git repository found, initializing review manager and pr tree view.
+2023-06-14 16:38:11.154 [info] Registering git provider
+2023-06-14 16:38:11.154 [info] Review> Validate state in progress
+2023-06-14 16:38:11.154 [info] Review> Validating state...
+2023-06-14 16:38:11.154 [info] Review> Validate state in progress
+2023-06-14 16:38:11.154 [info] Review> Validating state...
+2023-06-14 16:38:12.229 [info] Found GitHub remote for folder /home/ubuntu/home
+2023-06-14 16:38:12.230 [info] Found GitHub remote for folder /home/ubuntu
+2023-06-14 16:38:12.643 [info] Repo state for file:///home/ubuntu changed.
+2023-06-14 16:38:12.643 [info] Repo file:///home/ubuntu has already been setup.
+2023-06-14 16:38:14.341 [info] Repo state for file:///home/ubuntu/home changed.
+2023-06-14 16:38:14.342 [info] Repo file:///home/ubuntu/home has already been setup.
+2023-06-14 16:38:14.344 [info] Review> No matching pull request metadata found locally for current branch main
+2023-06-14 16:38:14.344 [info] Review> no matching pull request metadata found for current branch main
+2023-06-14 16:38:14.345 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-14 16:38:14.642 [info] Review> No matching pull request metadata found locally for current branch main
+2023-06-14 16:38:14.642 [info] Review> no matching pull request metadata found for current branch main
+2023-06-14 16:38:14.642 [info] Review> No matching pull request metadata found on GitHub for current branch main

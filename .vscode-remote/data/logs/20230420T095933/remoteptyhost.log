@@ -1,6 +1,0 @@
-2023-04-20 10:16:07.714 [warning] Persistent process "5": Process had no disconnect runners but was an orphan
-2023-04-20 10:16:07.715 [info] Persistent process reconnection "5"
-2023-04-20 10:16:07.716 [warning] Persistent process "2": Process had no disconnect runners but was an orphan
-2023-04-20 10:16:07.716 [info] Persistent process reconnection "2"
-2023-04-20 10:16:07.716 [warning] Persistent process "4": Process had no disconnect runners but was an orphan
-2023-04-20 10:16:07.716 [info] Persistent process reconnection "4"

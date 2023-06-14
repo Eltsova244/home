@@ -9,3 +9,6 @@ Workspace folder /home/ubuntu, Home = /home/ubuntu
 13:49:38.841 [info] Process Execution: /usr/local/bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
 13:49:39.058 [info] Process Execution: /usr/local/bin/python -m pip list
 13:49:42.429 [info] End refreshing Interpreter Kernel Picker (1686379767653)
+14:11:50.010 [info] Disposing HostJupyterExecution
+14:11:50.010 [info] Shutting down notebooks for 04301528-c6f4-41b9-886d-632fc0fc21a4
+14:11:50.011 [info] Disposing HostJupyterExecution
