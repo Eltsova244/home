@@ -21,3 +21,6 @@
 2023-06-14 16:38:12.697 [info] > /usr/bin/python3 -I ./.vscode-remote/extensions/ms-python.python-2023.10.1/pythonFiles/get_output_via_markers.py ./.vscode-remote/extensions/ms-python.python-2023.10.1/pythonFiles/interpreterInfo.py
 2023-06-14 16:38:13.932 [info] > /usr/local/bin/python -I ./.vscode-remote/extensions/ms-python.python-2023.10.1/pythonFiles/get_output_via_markers.py ./.vscode-remote/extensions/ms-python.python-2023.10.1/pythonFiles/interpreterInfo.py
 2023-06-14 16:38:14.743 [info] Путь к интерпретатору Python: /usr/local/bin/python
+2023-06-14 16:39:59.652 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-14 16:39:59.652 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-06-14 16:40:00.618 [info] Запуск языкового сервера Pylance.

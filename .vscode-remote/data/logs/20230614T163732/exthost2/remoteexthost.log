@@ -47,3 +47,65 @@ Once installed please reload VS Code.
 2023-06-14 16:38:09.237 [warning] Using default string since no string found in i18n bundle that has the key: Failed to install the Python Extension.
 2023-06-14 16:38:10.347 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
 2023-06-14 16:38:10.444 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2023-06-14 16:39:23.590 [error] Error: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:387:5)
+    at errorBuffer (node:internal/streams/writable:519:14)
+    at afterWrite (node:internal/streams/writable:503:5)
+    at onwrite (node:internal/streams/writable:479:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+2023-06-14 16:39:23.590 [error] Error: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:387:5)
+    at errorBuffer (node:internal/streams/writable:519:14)
+    at afterWrite (node:internal/streams/writable:503:5)
+    at onwrite (node:internal/streams/writable:479:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+2023-06-14 16:39:23.591 [error] Error: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:387:5)
+    at errorBuffer (node:internal/streams/writable:519:14)
+    at afterWrite (node:internal/streams/writable:503:5)
+    at onwrite (node:internal/streams/writable:479:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+2023-06-14 16:39:23.591 [error] Error: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:387:5)
+    at errorBuffer (node:internal/streams/writable:519:14)
+    at afterWrite (node:internal/streams/writable:503:5)
+    at onwrite (node:internal/streams/writable:479:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+2023-06-14 16:39:23.591 [error] Error: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:387:5)
+    at errorBuffer (node:internal/streams/writable:519:14)
+    at afterWrite (node:internal/streams/writable:503:5)
+    at onwrite (node:internal/streams/writable:479:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+2023-06-14 16:39:23.591 [error] Error: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:387:5)
+    at errorBuffer (node:internal/streams/writable:519:14)
+    at afterWrite (node:internal/streams/writable:503:5)
+    at onwrite (node:internal/streams/writable:479:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+2023-06-14 16:39:23.591 [error] Error: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:387:5)
+    at errorBuffer (node:internal/streams/writable:519:14)
+    at afterWrite (node:internal/streams/writable:503:5)
+    at onwrite (node:internal/streams/writable:479:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+2023-06-14 16:39:23.592 [error] Error: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:387:5)
+    at errorBuffer (node:internal/streams/writable:519:14)
+    at afterWrite (node:internal/streams/writable:503:5)
+    at onwrite (node:internal/streams/writable:479:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+2023-06-14 16:39:23.592 [error] Error: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:387:5)
+    at errorBuffer (node:internal/streams/writable:519:14)
+    at afterWrite (node:internal/streams/writable:503:5)
+    at onwrite (node:internal/streams/writable:479:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+2023-06-14 16:39:23.592 [error] Error: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:387:5)
+    at errorBuffer (node:internal/streams/writable:519:14)
+    at afterWrite (node:internal/streams/writable:503:5)
+    at onwrite (node:internal/streams/writable:479:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+2023-06-14 16:40:08.374 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-06-14 16:40:08.375 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'

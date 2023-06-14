@@ -7,3 +7,7 @@ Workspace folder /home/ubuntu, Home = /home/ubuntu
 16:38:10.446 [info] Using Pylance
 16:38:11.097 [info] Process Execution: /jupyter notebook --version
 16:38:11.116 [info] Process Execution: /jupyter lab --version
+16:39:59.654 [info] End refreshing Interpreter Kernel Picker (1686735490364)
+16:39:59.705 [warn] Failed to get activated env vars for /usr/local/bin/python in 104974ms
+16:39:59.762 [info] Process Execution: /usr/local/bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+16:40:00.015 [info] Process Execution: /usr/local/bin/python -m pip list

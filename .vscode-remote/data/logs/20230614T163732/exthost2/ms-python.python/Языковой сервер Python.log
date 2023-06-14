@@ -1,0 +1,18 @@
+2023-06-14 16:40:00.549 [info] [Info  - 4:40:00 PM] (4461) Pylance language server 2023.6.10 (pyright 7784093a) starting
+2023-06-14 16:40:00.549 [info] [Info  - 4:40:00 PM] (4461) Server root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.6.10/dist
+2023-06-14 16:40:00.559 [info] [Info  - 4:40:00 PM] (4461) Starting service instance "ubuntu"
+2023-06-14 16:40:00.718 [info] [Info  - 4:40:00 PM] (4461) Setting pythonPath for service "ubuntu": "/usr/local/bin/python"
+2023-06-14 16:40:00.718 [info] [Warn  - 4:40:00 PM] (4461) stubPath /home/ubuntu/typings is not a valid directory.
+2023-06-14 16:40:00.777 [info] [Info  - 4:40:00 PM] (4461) Assuming Python version 3.11
+2023-06-14 16:40:01.212 [info] [Info  - 4:40:01 PM] (4461) Found 3 source files
+2023-06-14 16:40:02.067 [info] [Info  - 4:40:02 PM] (4461) Background analysis(1) root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.6.10/dist
+2023-06-14 16:40:02.092 [info] [Info  - 4:40:02 PM] (4461) Background analysis(1) started
+2023-06-14 16:40:07.445 [info] [Info  - 4:40:07 PM] (4461) Indexer background runner(2) root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.6.10/dist (index)
+2023-06-14 16:40:07.462 [info] [Info  - 4:40:07 PM] (4461) Indexing(2) started
+2023-06-14 16:40:10.880 [info] [Info  - 4:40:10 PM] (4461) [BG(1)] Long operation: getSemanticTokens full at /home/ubuntu/app.py (5326ms)
+2023-06-14 16:40:10.891 [info] [Info  - 4:40:10 PM] (4461) [IDX(2)] Long operation: scan packages /home/ubuntu (3425ms)
+2023-06-14 16:40:10.891 [info] [Info  - 4:40:10 PM] (4461) scanned(2) 278 files over 1 exec env
+2023-06-14 16:40:20.659 [info] [Info  - 4:40:20 PM] (4461) [IDX(2)] Long operation: index execution environment /home/ubuntu (8821ms)
+2023-06-14 16:40:20.660 [info] [Info  - 4:40:20 PM] (4461) [IDX(2)] Long operation: index packages /home/ubuntu (8857ms)
+2023-06-14 16:40:20.661 [info] [Info  - 4:40:20 PM] (4461) indexed(2) 211 files over 1 exec env
+2023-06-14 16:40:20.689 [info] [Info  - 4:40:20 PM] (4461) Indexing finished(2).
